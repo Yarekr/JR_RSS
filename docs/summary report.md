@@ -1,1004 +1,4 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1586076026716,125,HTTP Request,200,OK,Grupa wątków 1-1,text,true,,3417,157,1,1,http://127.0.0.1:8000/,123,0,1
-1586076026842,86,HTTP Request,200,OK,Grupa wątków 1-1,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076026928,90,HTTP Request,200,OK,Grupa wątków 1-1,text,true,,3413,157,1,1,http://127.0.0.1:8000/,89,0,1
-1586076027018,86,HTTP Request,200,OK,Grupa wątków 1-1,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076027105,92,HTTP Request,200,OK,Grupa wątków 1-1,text,true,,3417,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076027197,84,HTTP Request,200,OK,Grupa wątków 1-1,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076027281,87,HTTP Request,200,OK,Grupa wątków 1-1,text,true,,3413,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076027368,93,HTTP Request,200,OK,Grupa wątków 1-1,text,true,,3413,157,1,1,http://127.0.0.1:8000/,91,0,0
-1586076027461,92,HTTP Request,200,OK,Grupa wątków 1-1,text,true,,3417,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076027553,92,HTTP Request,200,OK,Grupa wątków 1-1,text,true,,3411,157,1,1,http://127.0.0.1:8000/,91,0,0
-1586076027728,88,HTTP Request,200,OK,Grupa wątków 1-2,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076027817,86,HTTP Request,200,OK,Grupa wątków 1-2,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076027903,88,HTTP Request,200,OK,Grupa wątków 1-2,text,true,,3419,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076027991,90,HTTP Request,200,OK,Grupa wątków 1-2,text,true,,3419,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076028081,94,HTTP Request,200,OK,Grupa wątków 1-2,text,true,,3415,157,1,1,http://127.0.0.1:8000/,93,0,0
-1586076028175,222,HTTP Request,200,OK,Grupa wątków 1-2,text,true,,3421,157,1,1,http://127.0.0.1:8000/,220,0,1
-1586076028397,85,HTTP Request,200,OK,Grupa wątków 1-2,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076028482,86,HTTP Request,200,OK,Grupa wątków 1-2,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076028568,96,HTTP Request,200,OK,Grupa wątków 1-2,text,true,,3413,157,1,1,http://127.0.0.1:8000/,94,0,1
-1586076028664,89,HTTP Request,200,OK,Grupa wątków 1-2,text,true,,3419,157,2,2,http://127.0.0.1:8000/,87,0,1
-1586076028725,113,HTTP Request,200,OK,Grupa wątków 1-3,text,true,,3413,157,1,1,http://127.0.0.1:8000/,112,0,1
-1586076028839,85,HTTP Request,200,OK,Grupa wątków 1-3,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076028925,86,HTTP Request,200,OK,Grupa wątków 1-3,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076029011,89,HTTP Request,200,OK,Grupa wątków 1-3,text,true,,3415,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076029100,99,HTTP Request,200,OK,Grupa wątków 1-3,text,true,,3419,157,1,1,http://127.0.0.1:8000/,97,0,1
-1586076029199,87,HTTP Request,200,OK,Grupa wątków 1-3,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076029287,87,HTTP Request,200,OK,Grupa wątków 1-3,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076029374,85,HTTP Request,200,OK,Grupa wątków 1-3,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076029459,88,HTTP Request,200,OK,Grupa wątków 1-3,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076029547,86,HTTP Request,200,OK,Grupa wątków 1-3,text,true,,3423,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076029725,87,HTTP Request,200,OK,Grupa wątków 1-4,text,true,,3413,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076029812,85,HTTP Request,200,OK,Grupa wątków 1-4,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076029898,88,HTTP Request,200,OK,Grupa wątków 1-4,text,true,,3423,157,1,1,http://127.0.0.1:8000/,87,0,0
-1586076029986,86,HTTP Request,200,OK,Grupa wątków 1-4,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076030072,93,HTTP Request,200,OK,Grupa wątków 1-4,text,true,,3419,157,1,1,http://127.0.0.1:8000/,91,0,1
-1586076030166,86,HTTP Request,200,OK,Grupa wątków 1-4,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076030253,85,HTTP Request,200,OK,Grupa wątków 1-4,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076030338,86,HTTP Request,200,OK,Grupa wątków 1-4,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076030424,85,HTTP Request,200,OK,Grupa wątków 1-4,text,true,,3423,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076030509,85,HTTP Request,200,OK,Grupa wątków 1-4,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076030726,87,HTTP Request,200,OK,Grupa wątków 1-5,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076030813,89,HTTP Request,200,OK,Grupa wątków 1-5,text,true,,3423,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076030902,85,HTTP Request,200,OK,Grupa wątków 1-5,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076030987,86,HTTP Request,200,OK,Grupa wątków 1-5,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076031074,96,HTTP Request,200,OK,Grupa wątków 1-5,text,true,,3419,157,1,1,http://127.0.0.1:8000/,95,0,0
-1586076031171,85,HTTP Request,200,OK,Grupa wątków 1-5,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076031257,86,HTTP Request,200,OK,Grupa wątków 1-5,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076031343,87,HTTP Request,200,OK,Grupa wątków 1-5,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076031430,86,HTTP Request,200,OK,Grupa wątków 1-5,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076031516,85,HTTP Request,200,OK,Grupa wątków 1-5,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076031729,87,HTTP Request,200,OK,Grupa wątków 1-6,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076031816,84,HTTP Request,200,OK,Grupa wątków 1-6,text,true,,3419,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076031901,84,HTTP Request,200,OK,Grupa wątków 1-6,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076031985,88,HTTP Request,200,OK,Grupa wątków 1-6,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076032073,94,HTTP Request,200,OK,Grupa wątków 1-6,text,true,,3417,157,1,1,http://127.0.0.1:8000/,92,0,1
-1586076032167,87,HTTP Request,200,OK,Grupa wątków 1-6,text,true,,3419,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076032255,85,HTTP Request,200,OK,Grupa wątków 1-6,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076032340,85,HTTP Request,200,OK,Grupa wątków 1-6,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076032425,88,HTTP Request,200,OK,Grupa wątków 1-6,text,true,,3411,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076032513,88,HTTP Request,200,OK,Grupa wątków 1-6,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076032728,88,HTTP Request,200,OK,Grupa wątków 1-7,text,true,,3423,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076032816,86,HTTP Request,200,OK,Grupa wątków 1-7,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076032902,85,HTTP Request,200,OK,Grupa wątków 1-7,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076032988,85,HTTP Request,200,OK,Grupa wątków 1-7,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076033073,91,HTTP Request,200,OK,Grupa wątków 1-7,text,true,,3415,157,1,1,http://127.0.0.1:8000/,89,0,1
-1586076033164,87,HTTP Request,200,OK,Grupa wątków 1-7,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076033251,85,HTTP Request,200,OK,Grupa wątków 1-7,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076033337,86,HTTP Request,200,OK,Grupa wątków 1-7,text,true,,3423,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076033423,87,HTTP Request,200,OK,Grupa wątków 1-7,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076033511,84,HTTP Request,200,OK,Grupa wątków 1-7,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076033729,86,HTTP Request,200,OK,Grupa wątków 1-8,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076033816,85,HTTP Request,200,OK,Grupa wątków 1-8,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076033901,87,HTTP Request,200,OK,Grupa wątków 1-8,text,true,,3425,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076033988,88,HTTP Request,200,OK,Grupa wątków 1-8,text,true,,3413,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076034076,96,HTTP Request,200,OK,Grupa wątków 1-8,text,true,,3415,157,1,1,http://127.0.0.1:8000/,93,0,0
-1586076034172,88,HTTP Request,200,OK,Grupa wątków 1-8,text,true,,3413,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076034261,90,HTTP Request,200,OK,Grupa wątków 1-8,text,true,,3421,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076034351,86,HTTP Request,200,OK,Grupa wątków 1-8,text,true,,3423,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076034437,86,HTTP Request,200,OK,Grupa wątków 1-8,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076034523,85,HTTP Request,200,OK,Grupa wątków 1-8,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076034729,89,HTTP Request,200,OK,Grupa wątków 1-9,text,true,,3413,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076034819,86,HTTP Request,200,OK,Grupa wątków 1-9,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076034905,86,HTTP Request,200,OK,Grupa wątków 1-9,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076034991,86,HTTP Request,200,OK,Grupa wątków 1-9,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076035077,92,HTTP Request,200,OK,Grupa wątków 1-9,text,true,,3417,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076035169,89,HTTP Request,200,OK,Grupa wątków 1-9,text,true,,3415,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076035258,87,HTTP Request,200,OK,Grupa wątków 1-9,text,true,,3411,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076035345,84,HTTP Request,200,OK,Grupa wątków 1-9,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076035429,88,HTTP Request,200,OK,Grupa wątków 1-9,text,true,,3413,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076035517,85,HTTP Request,200,OK,Grupa wątków 1-9,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076035728,91,HTTP Request,200,OK,Grupa wątków 1-10,text,true,,3413,157,1,1,http://127.0.0.1:8000/,88,0,1
-1586076035819,87,HTTP Request,200,OK,Grupa wątków 1-10,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076035906,86,HTTP Request,200,OK,Grupa wątków 1-10,text,true,,3411,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076035993,86,HTTP Request,200,OK,Grupa wątków 1-10,text,true,,3411,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076036079,92,HTTP Request,200,OK,Grupa wątków 1-10,text,true,,3417,157,1,1,http://127.0.0.1:8000/,90,0,1
-1586076036171,87,HTTP Request,200,OK,Grupa wątków 1-10,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076036258,86,HTTP Request,200,OK,Grupa wątków 1-10,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076036344,84,HTTP Request,200,OK,Grupa wątków 1-10,text,true,,3413,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076036428,85,HTTP Request,200,OK,Grupa wątków 1-10,text,true,,3423,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076036513,84,HTTP Request,200,OK,Grupa wątków 1-10,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076036729,87,HTTP Request,200,OK,Grupa wątków 1-11,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076036816,85,HTTP Request,200,OK,Grupa wątków 1-11,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076036902,86,HTTP Request,200,OK,Grupa wątków 1-11,text,true,,3411,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076036988,88,HTTP Request,200,OK,Grupa wątków 1-11,text,true,,3419,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076037076,92,HTTP Request,200,OK,Grupa wątków 1-11,text,true,,3417,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076037168,89,HTTP Request,200,OK,Grupa wątków 1-11,text,true,,3411,157,1,1,http://127.0.0.1:8000/,88,0,1
-1586076037257,196,HTTP Request,200,OK,Grupa wątków 1-11,text,true,,3415,157,1,1,http://127.0.0.1:8000/,194,0,1
-1586076037453,86,HTTP Request,200,OK,Grupa wątków 1-11,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076037539,86,HTTP Request,200,OK,Grupa wątków 1-11,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076037625,93,HTTP Request,200,OK,Grupa wątków 1-11,text,true,,3413,157,1,1,http://127.0.0.1:8000/,92,0,1
-1586076037729,86,HTTP Request,200,OK,Grupa wątków 1-12,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076037816,85,HTTP Request,200,OK,Grupa wątków 1-12,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076037902,84,HTTP Request,200,OK,Grupa wątków 1-12,text,true,,3427,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076037986,86,HTTP Request,200,OK,Grupa wątków 1-12,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076038072,89,HTTP Request,200,OK,Grupa wątków 1-12,text,true,,3419,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076038162,88,HTTP Request,200,OK,Grupa wątków 1-12,text,true,,3417,157,1,1,http://127.0.0.1:8000/,87,0,0
-1586076038250,85,HTTP Request,200,OK,Grupa wątków 1-12,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076038335,84,HTTP Request,200,OK,Grupa wątków 1-12,text,true,,3413,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076038419,87,HTTP Request,200,OK,Grupa wątków 1-12,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076038506,86,HTTP Request,200,OK,Grupa wątków 1-12,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076038729,85,HTTP Request,200,OK,Grupa wątków 1-13,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076038814,88,HTTP Request,200,OK,Grupa wątków 1-13,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076038902,87,HTTP Request,200,OK,Grupa wątków 1-13,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076038989,85,HTTP Request,200,OK,Grupa wątków 1-13,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076039075,89,HTTP Request,200,OK,Grupa wątków 1-13,text,true,,3419,157,1,1,http://127.0.0.1:8000/,87,0,0
-1586076039165,89,HTTP Request,200,OK,Grupa wątków 1-13,text,true,,3415,157,1,1,http://127.0.0.1:8000/,87,0,0
-1586076039254,87,HTTP Request,200,OK,Grupa wątków 1-13,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076039341,87,HTTP Request,200,OK,Grupa wątków 1-13,text,true,,3423,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076039428,85,HTTP Request,200,OK,Grupa wątków 1-13,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076039514,84,HTTP Request,200,OK,Grupa wątków 1-13,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076039728,86,HTTP Request,200,OK,Grupa wątków 1-14,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076039814,85,HTTP Request,200,OK,Grupa wątków 1-14,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076039899,85,HTTP Request,200,OK,Grupa wątków 1-14,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076039984,87,HTTP Request,200,OK,Grupa wątków 1-14,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076040071,90,HTTP Request,200,OK,Grupa wątków 1-14,text,true,,3419,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076040162,96,HTTP Request,200,OK,Grupa wątków 1-14,text,true,,3421,157,1,1,http://127.0.0.1:8000/,94,0,1
-1586076040258,86,HTTP Request,200,OK,Grupa wątków 1-14,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076040344,85,HTTP Request,200,OK,Grupa wątków 1-14,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076040429,89,HTTP Request,200,OK,Grupa wątków 1-14,text,true,,3415,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076040518,87,HTTP Request,200,OK,Grupa wątków 1-14,text,true,,3413,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076040729,85,HTTP Request,200,OK,Grupa wątków 1-15,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076040814,85,HTTP Request,200,OK,Grupa wątków 1-15,text,true,,3423,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076040899,85,HTTP Request,200,OK,Grupa wątków 1-15,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076040984,89,HTTP Request,200,OK,Grupa wątków 1-15,text,true,,3415,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076041073,94,HTTP Request,200,OK,Grupa wątków 1-15,text,true,,3413,157,1,1,http://127.0.0.1:8000/,92,0,1
-1586076041167,90,HTTP Request,200,OK,Grupa wątków 1-15,text,true,,3417,157,1,1,http://127.0.0.1:8000/,89,0,1
-1586076041258,87,HTTP Request,200,OK,Grupa wątków 1-15,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076041345,87,HTTP Request,200,OK,Grupa wątków 1-15,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076041432,89,HTTP Request,200,OK,Grupa wątków 1-15,text,true,,3419,157,1,1,http://127.0.0.1:8000/,87,0,0
-1586076041521,88,HTTP Request,200,OK,Grupa wątków 1-15,text,true,,3413,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076041729,196,HTTP Request,200,OK,Grupa wątków 1-16,text,true,,3415,157,1,1,http://127.0.0.1:8000/,195,0,1
-1586076041926,88,HTTP Request,200,OK,Grupa wątków 1-16,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076042014,91,HTTP Request,200,OK,Grupa wątków 1-16,text,true,,3421,157,1,1,http://127.0.0.1:8000/,89,0,1
-1586076042105,97,HTTP Request,200,OK,Grupa wątków 1-16,text,true,,3417,157,1,1,http://127.0.0.1:8000/,95,0,1
-1586076042203,86,HTTP Request,200,OK,Grupa wątków 1-16,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076042289,87,HTTP Request,200,OK,Grupa wątków 1-16,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076042377,85,HTTP Request,200,OK,Grupa wątków 1-16,text,true,,3411,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076042463,85,HTTP Request,200,OK,Grupa wątków 1-16,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076042549,86,HTTP Request,200,OK,Grupa wątków 1-16,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076042635,97,HTTP Request,200,OK,Grupa wątków 1-16,text,true,,3417,157,2,2,http://127.0.0.1:8000/,95,0,0
-1586076042728,90,HTTP Request,200,OK,Grupa wątków 1-17,text,true,,3421,157,1,1,http://127.0.0.1:8000/,88,0,1
-1586076042818,88,HTTP Request,200,OK,Grupa wątków 1-17,text,true,,3423,157,1,1,http://127.0.0.1:8000/,87,0,0
-1586076042906,90,HTTP Request,200,OK,Grupa wątków 1-17,text,true,,3415,157,1,1,http://127.0.0.1:8000/,88,0,1
-1586076042996,87,HTTP Request,200,OK,Grupa wątków 1-17,text,true,,3413,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076043084,99,HTTP Request,200,OK,Grupa wątków 1-17,text,true,,3421,157,1,1,http://127.0.0.1:8000/,98,0,0
-1586076043184,88,HTTP Request,200,OK,Grupa wątków 1-17,text,true,,3423,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076043272,88,HTTP Request,200,OK,Grupa wątków 1-17,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076043360,86,HTTP Request,200,OK,Grupa wątków 1-17,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076043446,85,HTTP Request,200,OK,Grupa wątków 1-17,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076043531,85,HTTP Request,200,OK,Grupa wątków 1-17,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076043728,86,HTTP Request,200,OK,Grupa wątków 1-18,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076043814,100,HTTP Request,200,OK,Grupa wątków 1-18,text,true,,3419,157,1,1,http://127.0.0.1:8000/,98,0,1
-1586076043914,86,HTTP Request,200,OK,Grupa wątków 1-18,text,true,,3421,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076044000,87,HTTP Request,200,OK,Grupa wątków 1-18,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076044087,94,HTTP Request,200,OK,Grupa wątków 1-18,text,true,,3419,157,1,1,http://127.0.0.1:8000/,93,0,1
-1586076044182,87,HTTP Request,200,OK,Grupa wątków 1-18,text,true,,3413,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076044269,89,HTTP Request,200,OK,Grupa wątków 1-18,text,true,,3415,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076044358,87,HTTP Request,200,OK,Grupa wątków 1-18,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076044445,89,HTTP Request,200,OK,Grupa wątków 1-18,text,true,,3417,157,1,1,http://127.0.0.1:8000/,87,0,0
-1586076044534,89,HTTP Request,200,OK,Grupa wątków 1-18,text,true,,3421,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076044728,87,HTTP Request,200,OK,Grupa wątków 1-19,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076044815,87,HTTP Request,200,OK,Grupa wątków 1-19,text,true,,3413,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076044902,86,HTTP Request,200,OK,Grupa wątków 1-19,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076044988,88,HTTP Request,200,OK,Grupa wątków 1-19,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076045076,91,HTTP Request,200,OK,Grupa wątków 1-19,text,true,,3417,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076045168,91,HTTP Request,200,OK,Grupa wątków 1-19,text,true,,3415,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076045259,87,HTTP Request,200,OK,Grupa wątków 1-19,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076045346,111,HTTP Request,200,OK,Grupa wątków 1-19,text,true,,3415,157,1,1,http://127.0.0.1:8000/,109,0,1
-1586076045457,89,HTTP Request,200,OK,Grupa wątków 1-19,text,true,,3415,157,1,1,http://127.0.0.1:8000/,88,0,1
-1586076045547,87,HTTP Request,200,OK,Grupa wątków 1-19,text,true,,3413,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076045729,90,HTTP Request,200,OK,Grupa wątków 1-20,text,true,,3417,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076045819,88,HTTP Request,200,OK,Grupa wątków 1-20,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076045907,87,HTTP Request,200,OK,Grupa wątków 1-20,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076045994,89,HTTP Request,200,OK,Grupa wątków 1-20,text,true,,3419,157,1,1,http://127.0.0.1:8000/,87,0,0
-1586076046083,96,HTTP Request,200,OK,Grupa wątków 1-20,text,true,,3415,157,1,1,http://127.0.0.1:8000/,94,0,1
-1586076046179,90,HTTP Request,200,OK,Grupa wątków 1-20,text,true,,3413,157,1,1,http://127.0.0.1:8000/,89,0,1
-1586076046270,89,HTTP Request,200,OK,Grupa wątków 1-20,text,true,,3419,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076046359,88,HTTP Request,200,OK,Grupa wątków 1-20,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076046447,85,HTTP Request,200,OK,Grupa wątków 1-20,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076046532,86,HTTP Request,200,OK,Grupa wątków 1-20,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076046728,88,HTTP Request,200,OK,Grupa wątków 1-21,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076046816,88,HTTP Request,200,OK,Grupa wątków 1-21,text,true,,3419,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076046904,86,HTTP Request,200,OK,Grupa wątków 1-21,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076046990,88,HTTP Request,200,OK,Grupa wątków 1-21,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076047078,89,HTTP Request,200,OK,Grupa wątków 1-21,text,true,,3413,157,1,1,http://127.0.0.1:8000/,87,0,0
-1586076047168,108,HTTP Request,200,OK,Grupa wątków 1-21,text,true,,3415,157,1,1,http://127.0.0.1:8000/,107,0,0
-1586076047276,86,HTTP Request,200,OK,Grupa wątków 1-21,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076047362,87,HTTP Request,200,OK,Grupa wątków 1-21,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076047449,88,HTTP Request,200,OK,Grupa wątków 1-21,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076047537,206,HTTP Request,200,OK,Grupa wątków 1-21,text,true,,3415,157,2,2,http://127.0.0.1:8000/,205,0,0
-1586076047729,101,HTTP Request,200,OK,Grupa wątków 1-22,text,true,,3413,157,1,1,http://127.0.0.1:8000/,99,0,1
-1586076047830,89,HTTP Request,200,OK,Grupa wątków 1-22,text,true,,3417,157,1,1,http://127.0.0.1:8000/,88,0,1
-1586076047919,87,HTTP Request,200,OK,Grupa wątków 1-22,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076048007,84,HTTP Request,200,OK,Grupa wątków 1-22,text,true,,3421,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076048092,90,HTTP Request,200,OK,Grupa wątków 1-22,text,true,,3413,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076048182,87,HTTP Request,200,OK,Grupa wątków 1-22,text,true,,3419,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076048269,86,HTTP Request,200,OK,Grupa wątków 1-22,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076048355,87,HTTP Request,200,OK,Grupa wątków 1-22,text,true,,3425,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076048442,87,HTTP Request,200,OK,Grupa wątków 1-22,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076048529,85,HTTP Request,200,OK,Grupa wątków 1-22,text,true,,3425,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076048729,88,HTTP Request,200,OK,Grupa wątków 1-23,text,true,,3411,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076048817,84,HTTP Request,200,OK,Grupa wątków 1-23,text,true,,3421,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076048902,86,HTTP Request,200,OK,Grupa wątków 1-23,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076048989,88,HTTP Request,200,OK,Grupa wątków 1-23,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076049077,85,HTTP Request,200,OK,Grupa wątków 1-23,text,true,,3411,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076049162,90,HTTP Request,200,OK,Grupa wątków 1-23,text,true,,3421,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076049252,85,HTTP Request,200,OK,Grupa wątków 1-23,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076049337,86,HTTP Request,200,OK,Grupa wątków 1-23,text,true,,3411,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076049423,84,HTTP Request,200,OK,Grupa wątków 1-23,text,true,,3419,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076049507,85,HTTP Request,200,OK,Grupa wątków 1-23,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076049728,88,HTTP Request,200,OK,Grupa wątków 1-24,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076049816,85,HTTP Request,200,OK,Grupa wątków 1-24,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076049901,85,HTTP Request,200,OK,Grupa wątków 1-24,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076049986,85,HTTP Request,200,OK,Grupa wątków 1-24,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076050072,84,HTTP Request,200,OK,Grupa wątków 1-24,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076050156,107,HTTP Request,200,OK,Grupa wątków 1-24,text,true,,3421,157,1,1,http://127.0.0.1:8000/,105,0,0
-1586076050263,87,HTTP Request,200,OK,Grupa wątków 1-24,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076050350,86,HTTP Request,200,OK,Grupa wątków 1-24,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076050436,86,HTTP Request,200,OK,Grupa wątków 1-24,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076050522,87,HTTP Request,200,OK,Grupa wątków 1-24,text,true,,3413,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076050728,85,HTTP Request,200,OK,Grupa wątków 1-25,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076050813,87,HTTP Request,200,OK,Grupa wątków 1-25,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076050900,85,HTTP Request,200,OK,Grupa wątków 1-25,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076050985,87,HTTP Request,200,OK,Grupa wątków 1-25,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076051072,211,HTTP Request,200,OK,Grupa wątków 1-25,text,true,,3417,157,1,1,http://127.0.0.1:8000/,209,0,0
-1586076051283,89,HTTP Request,200,OK,Grupa wątków 1-25,text,true,,3411,157,1,1,http://127.0.0.1:8000/,87,0,0
-1586076051372,87,HTTP Request,200,OK,Grupa wątków 1-25,text,true,,3413,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076051459,86,HTTP Request,200,OK,Grupa wątków 1-25,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076051546,86,HTTP Request,200,OK,Grupa wątków 1-25,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076051632,210,HTTP Request,200,OK,Grupa wątków 1-25,text,true,,3415,157,2,2,http://127.0.0.1:8000/,208,0,0
-1586076051729,200,HTTP Request,200,OK,Grupa wątków 1-26,text,true,,3421,157,1,1,http://127.0.0.1:8000/,198,0,0
-1586076051929,86,HTTP Request,200,OK,Grupa wątków 1-26,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076052015,88,HTTP Request,200,OK,Grupa wątków 1-26,text,true,,3427,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076052103,92,HTTP Request,200,OK,Grupa wątków 1-26,text,true,,3411,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076052196,87,HTTP Request,200,OK,Grupa wątków 1-26,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076052284,87,HTTP Request,200,OK,Grupa wątków 1-26,text,true,,3411,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076052371,84,HTTP Request,200,OK,Grupa wątków 1-26,text,true,,3411,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076052455,85,HTTP Request,200,OK,Grupa wątków 1-26,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076052541,86,HTTP Request,200,OK,Grupa wątków 1-26,text,true,,3421,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076052627,92,HTTP Request,200,OK,Grupa wątków 1-26,text,true,,3413,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076052729,86,HTTP Request,200,OK,Grupa wątków 1-27,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076052815,85,HTTP Request,200,OK,Grupa wątków 1-27,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076052901,85,HTTP Request,200,OK,Grupa wątków 1-27,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076052986,86,HTTP Request,200,OK,Grupa wątków 1-27,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076053072,86,HTTP Request,200,OK,Grupa wątków 1-27,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076053158,99,HTTP Request,200,OK,Grupa wątków 1-27,text,true,,3419,157,1,1,http://127.0.0.1:8000/,98,0,1
-1586076053257,88,HTTP Request,200,OK,Grupa wątków 1-27,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076053345,86,HTTP Request,200,OK,Grupa wątków 1-27,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076053431,88,HTTP Request,200,OK,Grupa wątków 1-27,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076053520,85,HTTP Request,200,OK,Grupa wątków 1-27,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076053729,118,HTTP Request,200,OK,Grupa wątków 1-28,text,true,,3415,157,1,1,http://127.0.0.1:8000/,116,0,1
-1586076053847,111,HTTP Request,200,OK,Grupa wątków 1-28,text,true,,3413,157,1,1,http://127.0.0.1:8000/,109,0,1
-1586076053958,96,HTTP Request,200,OK,Grupa wątków 1-28,text,true,,3421,157,1,1,http://127.0.0.1:8000/,94,0,1
-1586076054054,88,HTTP Request,200,OK,Grupa wątków 1-28,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076054142,96,HTTP Request,200,OK,Grupa wątków 1-28,text,true,,3415,157,1,1,http://127.0.0.1:8000/,95,0,1
-1586076054239,88,HTTP Request,200,OK,Grupa wątków 1-28,text,true,,3419,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076054327,86,HTTP Request,200,OK,Grupa wątków 1-28,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076054413,87,HTTP Request,200,OK,Grupa wątków 1-28,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076054500,91,HTTP Request,200,OK,Grupa wątków 1-28,text,true,,3417,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076054591,91,HTTP Request,200,OK,Grupa wątków 1-28,text,true,,3417,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076054729,88,HTTP Request,200,OK,Grupa wątków 1-29,text,true,,3423,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076054817,89,HTTP Request,200,OK,Grupa wątków 1-29,text,true,,3423,157,1,1,http://127.0.0.1:8000/,88,0,1
-1586076054906,88,HTTP Request,200,OK,Grupa wątków 1-29,text,true,,3431,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076054994,116,HTTP Request,200,OK,Grupa wątków 1-29,text,true,,3423,157,1,1,http://127.0.0.1:8000/,114,0,1
-1586076055110,113,HTTP Request,200,OK,Grupa wątków 1-29,text,true,,3419,157,1,1,http://127.0.0.1:8000/,111,0,0
-1586076055223,93,HTTP Request,200,OK,Grupa wątków 1-29,text,true,,3415,157,1,1,http://127.0.0.1:8000/,91,0,0
-1586076055316,89,HTTP Request,200,OK,Grupa wątków 1-29,text,true,,3421,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076055405,88,HTTP Request,200,OK,Grupa wątków 1-29,text,true,,3419,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076055493,90,HTTP Request,200,OK,Grupa wątków 1-29,text,true,,3413,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076055583,87,HTTP Request,200,OK,Grupa wątków 1-29,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076055729,90,HTTP Request,200,OK,Grupa wątków 1-30,text,true,,3423,157,1,1,http://127.0.0.1:8000/,89,0,1
-1586076055819,87,HTTP Request,200,OK,Grupa wątków 1-30,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076055906,87,HTTP Request,200,OK,Grupa wątków 1-30,text,true,,3411,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076055993,85,HTTP Request,200,OK,Grupa wątków 1-30,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076056078,85,HTTP Request,200,OK,Grupa wątków 1-30,text,true,,3427,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076056163,97,HTTP Request,200,OK,Grupa wątków 1-30,text,true,,3413,157,1,1,http://127.0.0.1:8000/,96,0,1
-1586076056260,86,HTTP Request,200,OK,Grupa wątków 1-30,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076056346,86,HTTP Request,200,OK,Grupa wątków 1-30,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076056432,87,HTTP Request,200,OK,Grupa wątków 1-30,text,true,,3413,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076056519,91,HTTP Request,200,OK,Grupa wątków 1-30,text,true,,3419,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076056729,89,HTTP Request,200,OK,Grupa wątków 1-31,text,true,,3423,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076056818,87,HTTP Request,200,OK,Grupa wątków 1-31,text,true,,3411,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076056905,87,HTTP Request,200,OK,Grupa wątków 1-31,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076056993,108,HTTP Request,200,OK,Grupa wątków 1-31,text,true,,3413,157,1,1,http://127.0.0.1:8000/,106,0,0
-1586076057101,92,HTTP Request,200,OK,Grupa wątków 1-31,text,true,,3413,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076057193,90,HTTP Request,200,OK,Grupa wątków 1-31,text,true,,3413,157,1,1,http://127.0.0.1:8000/,88,0,1
-1586076057283,87,HTTP Request,200,OK,Grupa wątków 1-31,text,true,,3411,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076057370,87,HTTP Request,200,OK,Grupa wątków 1-31,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076057457,88,HTTP Request,200,OK,Grupa wątków 1-31,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076057545,87,HTTP Request,200,OK,Grupa wątków 1-31,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076057729,86,HTTP Request,200,OK,Grupa wątków 1-32,text,true,,3413,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076057816,84,HTTP Request,200,OK,Grupa wątków 1-32,text,true,,3419,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076057900,90,HTTP Request,200,OK,Grupa wątków 1-32,text,true,,3417,157,1,1,http://127.0.0.1:8000/,89,0,1
-1586076057990,87,HTTP Request,200,OK,Grupa wątków 1-32,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076058077,85,HTTP Request,200,OK,Grupa wątków 1-32,text,true,,3423,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076058162,99,HTTP Request,200,OK,Grupa wątków 1-32,text,true,,3415,157,1,1,http://127.0.0.1:8000/,98,0,1
-1586076058262,90,HTTP Request,200,OK,Grupa wątków 1-32,text,true,,3419,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076058352,222,HTTP Request,200,OK,Grupa wątków 1-32,text,true,,3417,157,1,1,http://127.0.0.1:8000/,220,0,1
-1586076058574,107,HTTP Request,200,OK,Grupa wątków 1-32,text,true,,3415,157,1,1,http://127.0.0.1:8000/,105,0,1
-1586076058682,106,HTTP Request,200,OK,Grupa wątków 1-32,text,true,,3415,157,2,2,http://127.0.0.1:8000/,104,0,0
-1586076058723,154,HTTP Request,200,OK,Grupa wątków 1-33,text,true,,3413,157,1,1,http://127.0.0.1:8000/,152,0,0
-1586076058877,88,HTTP Request,200,OK,Grupa wątków 1-33,text,true,,3411,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076058965,89,HTTP Request,200,OK,Grupa wątków 1-33,text,true,,3411,157,1,1,http://127.0.0.1:8000/,87,0,0
-1586076059054,87,HTTP Request,200,OK,Grupa wątków 1-33,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076059141,106,HTTP Request,200,OK,Grupa wątków 1-33,text,true,,3415,157,1,1,http://127.0.0.1:8000/,105,0,1
-1586076059247,92,HTTP Request,200,OK,Grupa wątków 1-33,text,true,,3417,157,1,1,http://127.0.0.1:8000/,90,0,1
-1586076059339,91,HTTP Request,200,OK,Grupa wątków 1-33,text,true,,3421,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076059430,96,HTTP Request,200,OK,Grupa wątków 1-33,text,true,,3415,157,1,1,http://127.0.0.1:8000/,95,0,1
-1586076059526,91,HTTP Request,200,OK,Grupa wątków 1-33,text,true,,3415,157,1,1,http://127.0.0.1:8000/,90,0,1
-1586076059617,105,HTTP Request,200,OK,Grupa wątków 1-33,text,true,,3411,157,2,2,http://127.0.0.1:8000/,103,0,1
-1586076059714,97,HTTP Request,200,OK,Grupa wątków 1-34,text,true,,3415,157,1,1,http://127.0.0.1:8000/,96,0,0
-1586076059811,93,HTTP Request,200,OK,Grupa wątków 1-34,text,true,,3417,157,1,1,http://127.0.0.1:8000/,91,0,1
-1586076059904,92,HTTP Request,200,OK,Grupa wątków 1-34,text,true,,3415,157,1,1,http://127.0.0.1:8000/,91,0,0
-1586076059996,88,HTTP Request,200,OK,Grupa wątków 1-34,text,true,,3427,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076060085,86,HTTP Request,200,OK,Grupa wątków 1-34,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076060171,226,HTTP Request,200,OK,Grupa wątków 1-34,text,true,,3423,157,1,1,http://127.0.0.1:8000/,224,0,1
-1586076060398,84,HTTP Request,200,OK,Grupa wątków 1-34,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076060483,85,HTTP Request,200,OK,Grupa wątków 1-34,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076060568,89,HTTP Request,200,OK,Grupa wątków 1-34,text,true,,3421,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076060657,95,HTTP Request,200,OK,Grupa wątków 1-34,text,true,,3417,157,2,2,http://127.0.0.1:8000/,93,0,0
-1586076060728,109,HTTP Request,200,OK,Grupa wątków 1-35,text,true,,3417,157,1,1,http://127.0.0.1:8000/,108,0,1
-1586076060837,88,HTTP Request,200,OK,Grupa wątków 1-35,text,true,,3413,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076060925,87,HTTP Request,200,OK,Grupa wątków 1-35,text,true,,3413,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076061013,85,HTTP Request,200,OK,Grupa wątków 1-35,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076061098,91,HTTP Request,200,OK,Grupa wątków 1-35,text,true,,3421,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076061189,121,HTTP Request,200,OK,Grupa wątków 1-35,text,true,,3415,157,1,1,http://127.0.0.1:8000/,118,0,1
-1586076061310,95,HTTP Request,200,OK,Grupa wątków 1-35,text,true,,3419,157,1,1,http://127.0.0.1:8000/,93,0,0
-1586076061405,90,HTTP Request,200,OK,Grupa wątków 1-35,text,true,,3421,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076061495,87,HTTP Request,200,OK,Grupa wątków 1-35,text,true,,3411,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076061582,87,HTTP Request,200,OK,Grupa wątków 1-35,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076061728,88,HTTP Request,200,OK,Grupa wątków 1-36,text,true,,3411,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076061816,86,HTTP Request,200,OK,Grupa wątków 1-36,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076061902,84,HTTP Request,200,OK,Grupa wątków 1-36,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076061986,88,HTTP Request,200,OK,Grupa wątków 1-36,text,true,,3413,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076062074,86,HTTP Request,200,OK,Grupa wątków 1-36,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076062161,93,HTTP Request,200,OK,Grupa wątków 1-36,text,true,,3417,157,1,1,http://127.0.0.1:8000/,91,0,0
-1586076062254,88,HTTP Request,200,OK,Grupa wątków 1-36,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076062342,85,HTTP Request,200,OK,Grupa wątków 1-36,text,true,,3427,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076062427,87,HTTP Request,200,OK,Grupa wątków 1-36,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076062514,86,HTTP Request,200,OK,Grupa wątków 1-36,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076062729,219,HTTP Request,200,OK,Grupa wątków 1-37,text,true,,3411,157,1,1,http://127.0.0.1:8000/,218,0,1
-1586076062948,92,HTTP Request,200,OK,Grupa wątków 1-37,text,true,,3415,157,1,1,http://127.0.0.1:8000/,90,0,1
-1586076063040,103,HTTP Request,200,OK,Grupa wątków 1-37,text,true,,3413,157,1,1,http://127.0.0.1:8000/,102,0,1
-1586076063143,91,HTTP Request,200,OK,Grupa wątków 1-37,text,true,,3415,157,1,1,http://127.0.0.1:8000/,90,0,1
-1586076063235,84,HTTP Request,200,OK,Grupa wątków 1-37,text,true,,3413,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076063319,85,HTTP Request,200,OK,Grupa wątków 1-37,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076063404,87,HTTP Request,200,OK,Grupa wątków 1-37,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076063491,87,HTTP Request,200,OK,Grupa wątków 1-37,text,true,,3413,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076063578,84,HTTP Request,200,OK,Grupa wątków 1-37,text,true,,3425,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076063662,92,HTTP Request,200,OK,Grupa wątków 1-37,text,true,,3413,157,2,2,http://127.0.0.1:8000/,91,0,1
-1586076063729,111,HTTP Request,200,OK,Grupa wątków 1-38,text,true,,3417,157,1,1,http://127.0.0.1:8000/,109,0,1
-1586076063840,85,HTTP Request,200,OK,Grupa wątków 1-38,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076063925,86,HTTP Request,200,OK,Grupa wątków 1-38,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076064011,86,HTTP Request,200,OK,Grupa wątków 1-38,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076064097,85,HTTP Request,200,OK,Grupa wątków 1-38,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076064182,91,HTTP Request,200,OK,Grupa wątków 1-38,text,true,,3415,157,1,1,http://127.0.0.1:8000/,90,0,1
-1586076064274,85,HTTP Request,200,OK,Grupa wątków 1-38,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076064359,87,HTTP Request,200,OK,Grupa wątków 1-38,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076064446,85,HTTP Request,200,OK,Grupa wątków 1-38,text,true,,3411,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076064531,86,HTTP Request,200,OK,Grupa wątków 1-38,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076064729,85,HTTP Request,200,OK,Grupa wątków 1-39,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076064814,84,HTTP Request,200,OK,Grupa wątków 1-39,text,true,,3427,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076064898,85,HTTP Request,200,OK,Grupa wątków 1-39,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076064983,86,HTTP Request,200,OK,Grupa wątków 1-39,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076065069,86,HTTP Request,200,OK,Grupa wątków 1-39,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076065155,91,HTTP Request,200,OK,Grupa wątków 1-39,text,true,,3415,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076065247,84,HTTP Request,200,OK,Grupa wątków 1-39,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076065331,84,HTTP Request,200,OK,Grupa wątków 1-39,text,true,,3419,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076065415,86,HTTP Request,200,OK,Grupa wątków 1-39,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076065501,86,HTTP Request,200,OK,Grupa wątków 1-39,text,true,,3411,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076065740,84,HTTP Request,200,OK,Grupa wątków 1-40,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076065824,84,HTTP Request,200,OK,Grupa wątków 1-40,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076065908,84,HTTP Request,200,OK,Grupa wątków 1-40,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076065992,86,HTTP Request,200,OK,Grupa wątków 1-40,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076066079,87,HTTP Request,200,OK,Grupa wątków 1-40,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076066166,93,HTTP Request,200,OK,Grupa wątków 1-40,text,true,,3411,157,1,1,http://127.0.0.1:8000/,92,0,0
-1586076066259,85,HTTP Request,200,OK,Grupa wątków 1-40,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076066345,84,HTTP Request,200,OK,Grupa wątków 1-40,text,true,,3419,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076066429,84,HTTP Request,200,OK,Grupa wątków 1-40,text,true,,3413,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076066513,85,HTTP Request,200,OK,Grupa wątków 1-40,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076066728,90,HTTP Request,200,OK,Grupa wątków 1-41,text,true,,3419,157,1,1,http://127.0.0.1:8000/,89,0,1
-1586076066818,86,HTTP Request,200,OK,Grupa wątków 1-41,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076066904,85,HTTP Request,200,OK,Grupa wątków 1-41,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076066990,89,HTTP Request,200,OK,Grupa wątków 1-41,text,true,,3419,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076067080,86,HTTP Request,200,OK,Grupa wątków 1-41,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076067166,92,HTTP Request,200,OK,Grupa wątków 1-41,text,true,,3419,157,1,1,http://127.0.0.1:8000/,90,0,1
-1586076067258,85,HTTP Request,200,OK,Grupa wątków 1-41,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076067343,86,HTTP Request,200,OK,Grupa wątków 1-41,text,true,,3423,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076067430,85,HTTP Request,200,OK,Grupa wątków 1-41,text,true,,3411,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076067516,85,HTTP Request,200,OK,Grupa wątków 1-41,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076067729,89,HTTP Request,200,OK,Grupa wątków 1-42,text,true,,3421,157,1,1,http://127.0.0.1:8000/,87,0,0
-1586076067819,84,HTTP Request,200,OK,Grupa wątków 1-42,text,true,,3411,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076067903,85,HTTP Request,200,OK,Grupa wątków 1-42,text,true,,3411,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076067988,84,HTTP Request,200,OK,Grupa wątków 1-42,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076068073,85,HTTP Request,200,OK,Grupa wątków 1-42,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076068158,92,HTTP Request,200,OK,Grupa wątków 1-42,text,true,,3413,157,1,1,http://127.0.0.1:8000/,91,0,0
-1586076068250,86,HTTP Request,200,OK,Grupa wątków 1-42,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076068336,85,HTTP Request,200,OK,Grupa wątków 1-42,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076068421,87,HTTP Request,200,OK,Grupa wątków 1-42,text,true,,3423,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076068508,86,HTTP Request,200,OK,Grupa wątków 1-42,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076068729,92,HTTP Request,200,OK,Grupa wątków 1-43,text,true,,3419,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076068821,87,HTTP Request,200,OK,Grupa wątków 1-43,text,true,,3413,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076068909,84,HTTP Request,200,OK,Grupa wątków 1-43,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076068993,84,HTTP Request,200,OK,Grupa wątków 1-43,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076069078,83,HTTP Request,200,OK,Grupa wątków 1-43,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076069162,93,HTTP Request,200,OK,Grupa wątków 1-43,text,true,,3415,157,1,1,http://127.0.0.1:8000/,91,0,0
-1586076069255,88,HTTP Request,200,OK,Grupa wątków 1-43,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076069343,86,HTTP Request,200,OK,Grupa wątków 1-43,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076069430,84,HTTP Request,200,OK,Grupa wątków 1-43,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076069514,85,HTTP Request,200,OK,Grupa wątków 1-43,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076069728,92,HTTP Request,200,OK,Grupa wątków 1-44,text,true,,3417,157,1,1,http://127.0.0.1:8000/,89,0,1
-1586076069820,85,HTTP Request,200,OK,Grupa wątków 1-44,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076069905,85,HTTP Request,200,OK,Grupa wątków 1-44,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076069990,87,HTTP Request,200,OK,Grupa wątków 1-44,text,true,,3411,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076070077,84,HTTP Request,200,OK,Grupa wątków 1-44,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076070161,92,HTTP Request,200,OK,Grupa wątków 1-44,text,true,,3413,157,1,1,http://127.0.0.1:8000/,91,0,1
-1586076070254,85,HTTP Request,200,OK,Grupa wątków 1-44,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076070340,84,HTTP Request,200,OK,Grupa wątków 1-44,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076070425,219,HTTP Request,200,OK,Grupa wątków 1-44,text,true,,3413,157,1,1,http://127.0.0.1:8000/,218,0,0
-1586076070645,90,HTTP Request,200,OK,Grupa wątków 1-44,text,true,,3415,157,2,2,http://127.0.0.1:8000/,88,0,0
-1586076070728,99,HTTP Request,200,OK,Grupa wątków 1-45,text,true,,3415,157,1,1,http://127.0.0.1:8000/,97,0,1
-1586076070827,84,HTTP Request,200,OK,Grupa wątków 1-45,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076070911,83,HTTP Request,200,OK,Grupa wątków 1-45,text,true,,3415,157,1,1,http://127.0.0.1:8000/,81,0,1
-1586076070994,85,HTTP Request,200,OK,Grupa wątków 1-45,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076071079,85,HTTP Request,200,OK,Grupa wątków 1-45,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076071164,91,HTTP Request,200,OK,Grupa wątków 1-45,text,true,,3423,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076071255,86,HTTP Request,200,OK,Grupa wątków 1-45,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076071342,84,HTTP Request,200,OK,Grupa wątków 1-45,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076071427,87,HTTP Request,200,OK,Grupa wątków 1-45,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076071514,86,HTTP Request,200,OK,Grupa wątków 1-45,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076071729,90,HTTP Request,200,OK,Grupa wątków 1-46,text,true,,3419,157,1,1,http://127.0.0.1:8000/,88,0,1
-1586076071819,84,HTTP Request,200,OK,Grupa wątków 1-46,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076071903,86,HTTP Request,200,OK,Grupa wątków 1-46,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076071989,84,HTTP Request,200,OK,Grupa wątków 1-46,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076072073,84,HTTP Request,200,OK,Grupa wątków 1-46,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076072158,94,HTTP Request,200,OK,Grupa wątków 1-46,text,true,,3415,157,1,1,http://127.0.0.1:8000/,91,0,0
-1586076072252,85,HTTP Request,200,OK,Grupa wątków 1-46,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076072337,85,HTTP Request,200,OK,Grupa wątków 1-46,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076072422,84,HTTP Request,200,OK,Grupa wątków 1-46,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076072507,85,HTTP Request,200,OK,Grupa wątków 1-46,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076072729,90,HTTP Request,200,OK,Grupa wątków 1-47,text,true,,3419,157,1,1,http://127.0.0.1:8000/,89,0,1
-1586076072819,84,HTTP Request,200,OK,Grupa wątków 1-47,text,true,,3419,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076072903,85,HTTP Request,200,OK,Grupa wątków 1-47,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076072988,89,HTTP Request,200,OK,Grupa wątków 1-47,text,true,,3417,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076073077,85,HTTP Request,200,OK,Grupa wątków 1-47,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076073162,98,HTTP Request,200,OK,Grupa wątków 1-47,text,true,,3415,157,1,1,http://127.0.0.1:8000/,96,0,1
-1586076073260,89,HTTP Request,200,OK,Grupa wątków 1-47,text,true,,3413,157,1,1,http://127.0.0.1:8000/,87,0,0
-1586076073349,85,HTTP Request,200,OK,Grupa wątków 1-47,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076073434,84,HTTP Request,200,OK,Grupa wątków 1-47,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076073518,87,HTTP Request,200,OK,Grupa wątków 1-47,text,true,,3411,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076073729,91,HTTP Request,200,OK,Grupa wątków 1-48,text,true,,3411,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076073820,85,HTTP Request,200,OK,Grupa wątków 1-48,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076073906,82,HTTP Request,200,OK,Grupa wątków 1-48,text,true,,3417,157,1,1,http://127.0.0.1:8000/,80,0,0
-1586076073988,84,HTTP Request,200,OK,Grupa wątków 1-48,text,true,,3413,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076074072,84,HTTP Request,200,OK,Grupa wątków 1-48,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076074156,90,HTTP Request,200,OK,Grupa wątków 1-48,text,true,,3413,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076074246,87,HTTP Request,200,OK,Grupa wątków 1-48,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076074334,86,HTTP Request,200,OK,Grupa wątków 1-48,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076074420,85,HTTP Request,200,OK,Grupa wątków 1-48,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076074506,85,HTTP Request,200,OK,Grupa wątków 1-48,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076074729,94,HTTP Request,200,OK,Grupa wątków 1-49,text,true,,3421,157,1,1,http://127.0.0.1:8000/,93,0,0
-1586076074823,89,HTTP Request,200,OK,Grupa wątków 1-49,text,true,,3413,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076074912,85,HTTP Request,200,OK,Grupa wątków 1-49,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076074997,86,HTTP Request,200,OK,Grupa wątków 1-49,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076075083,85,HTTP Request,200,OK,Grupa wątków 1-49,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076075169,92,HTTP Request,200,OK,Grupa wątków 1-49,text,true,,3415,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076075261,85,HTTP Request,200,OK,Grupa wątków 1-49,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076075346,88,HTTP Request,200,OK,Grupa wątków 1-49,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076075434,85,HTTP Request,200,OK,Grupa wątków 1-49,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076075519,84,HTTP Request,200,OK,Grupa wątków 1-49,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076075729,96,HTTP Request,200,OK,Grupa wątków 1-50,text,true,,3419,157,1,1,http://127.0.0.1:8000/,95,0,0
-1586076075825,84,HTTP Request,200,OK,Grupa wątków 1-50,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076075909,84,HTTP Request,200,OK,Grupa wątków 1-50,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076075993,88,HTTP Request,200,OK,Grupa wątków 1-50,text,true,,3413,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076076081,85,HTTP Request,200,OK,Grupa wątków 1-50,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076076166,93,HTTP Request,200,OK,Grupa wątków 1-50,text,true,,3417,157,1,1,http://127.0.0.1:8000/,91,0,0
-1586076076259,86,HTTP Request,200,OK,Grupa wątków 1-50,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076076345,85,HTTP Request,200,OK,Grupa wątków 1-50,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076076430,84,HTTP Request,200,OK,Grupa wątków 1-50,text,true,,3411,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076076515,85,HTTP Request,200,OK,Grupa wątków 1-50,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076076728,92,HTTP Request,200,OK,Grupa wątków 1-51,text,true,,3417,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076076820,84,HTTP Request,200,OK,Grupa wątków 1-51,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076076904,85,HTTP Request,200,OK,Grupa wątków 1-51,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076076989,86,HTTP Request,200,OK,Grupa wątków 1-51,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076077075,84,HTTP Request,200,OK,Grupa wątków 1-51,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076077160,90,HTTP Request,200,OK,Grupa wątków 1-51,text,true,,3417,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076077251,87,HTTP Request,200,OK,Grupa wątków 1-51,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076077338,85,HTTP Request,200,OK,Grupa wątków 1-51,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076077424,86,HTTP Request,200,OK,Grupa wątków 1-51,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076077510,84,HTTP Request,200,OK,Grupa wątków 1-51,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076077728,93,HTTP Request,200,OK,Grupa wątków 1-52,text,true,,3413,157,1,1,http://127.0.0.1:8000/,91,0,1
-1586076077821,85,HTTP Request,200,OK,Grupa wątków 1-52,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076077906,85,HTTP Request,200,OK,Grupa wątków 1-52,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076077991,85,HTTP Request,200,OK,Grupa wątków 1-52,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076078076,84,HTTP Request,200,OK,Grupa wątków 1-52,text,true,,3427,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076078160,92,HTTP Request,200,OK,Grupa wątków 1-52,text,true,,3421,157,1,1,http://127.0.0.1:8000/,90,0,1
-1586076078252,87,HTTP Request,200,OK,Grupa wątków 1-52,text,true,,3413,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076078340,85,HTTP Request,200,OK,Grupa wątków 1-52,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076078425,228,HTTP Request,200,OK,Grupa wątków 1-52,text,true,,3417,157,1,1,http://127.0.0.1:8000/,226,0,1
-1586076078653,89,HTTP Request,200,OK,Grupa wątków 1-52,text,true,,3413,157,2,2,http://127.0.0.1:8000/,87,0,1
-1586076078728,106,HTTP Request,200,OK,Grupa wątków 1-53,text,true,,3413,157,1,1,http://127.0.0.1:8000/,105,0,1
-1586076078834,85,HTTP Request,200,OK,Grupa wątków 1-53,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076078919,89,HTTP Request,200,OK,Grupa wątków 1-53,text,true,,3417,157,1,1,http://127.0.0.1:8000/,88,0,1
-1586076079008,87,HTTP Request,200,OK,Grupa wątków 1-53,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076079095,87,HTTP Request,200,OK,Grupa wątków 1-53,text,true,,3419,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076079183,93,HTTP Request,200,OK,Grupa wątków 1-53,text,true,,3419,157,1,1,http://127.0.0.1:8000/,92,0,0
-1586076079277,100,HTTP Request,200,OK,Grupa wątków 1-53,text,true,,3415,157,1,1,http://127.0.0.1:8000/,99,0,0
-1586076079378,90,HTTP Request,200,OK,Grupa wątków 1-53,text,true,,3419,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076079469,91,HTTP Request,200,OK,Grupa wątków 1-53,text,true,,3415,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076079560,86,HTTP Request,200,OK,Grupa wątków 1-53,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076079727,95,HTTP Request,200,OK,Grupa wątków 1-54,text,true,,3421,157,1,1,http://127.0.0.1:8000/,94,0,1
-1586076079822,86,HTTP Request,200,OK,Grupa wątków 1-54,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076079908,87,HTTP Request,200,OK,Grupa wątków 1-54,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076079995,235,HTTP Request,200,OK,Grupa wątków 1-54,text,true,,3417,157,1,1,http://127.0.0.1:8000/,233,0,0
-1586076080230,96,HTTP Request,200,OK,Grupa wątków 1-54,text,true,,3413,157,1,1,http://127.0.0.1:8000/,95,0,1
-1586076080326,90,HTTP Request,200,OK,Grupa wątków 1-54,text,true,,3415,157,1,1,http://127.0.0.1:8000/,88,0,1
-1586076080417,86,HTTP Request,200,OK,Grupa wątków 1-54,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076080503,86,HTTP Request,200,OK,Grupa wątków 1-54,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076080589,86,HTTP Request,200,OK,Grupa wątków 1-54,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076080675,97,HTTP Request,200,OK,Grupa wątków 1-54,text,true,,3421,157,2,2,http://127.0.0.1:8000/,96,0,0
-1586076080728,130,HTTP Request,200,OK,Grupa wątków 1-55,text,true,,3415,157,1,1,http://127.0.0.1:8000/,129,0,0
-1586076080858,83,HTTP Request,200,OK,Grupa wątków 1-55,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076080941,85,HTTP Request,200,OK,Grupa wątków 1-55,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076081026,85,HTTP Request,200,OK,Grupa wątków 1-55,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076081111,87,HTTP Request,200,OK,Grupa wątków 1-55,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076081198,96,HTTP Request,200,OK,Grupa wątków 1-55,text,true,,3415,157,1,1,http://127.0.0.1:8000/,95,0,0
-1586076081294,86,HTTP Request,200,OK,Grupa wątków 1-55,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076081380,85,HTTP Request,200,OK,Grupa wątków 1-55,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076081465,85,HTTP Request,200,OK,Grupa wątków 1-55,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076081550,86,HTTP Request,200,OK,Grupa wątków 1-55,text,true,,3411,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076081729,93,HTTP Request,200,OK,Grupa wątków 1-56,text,true,,3411,157,1,1,http://127.0.0.1:8000/,92,0,0
-1586076081822,85,HTTP Request,200,OK,Grupa wątków 1-56,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076081907,87,HTTP Request,200,OK,Grupa wątków 1-56,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076081994,87,HTTP Request,200,OK,Grupa wątków 1-56,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076082081,84,HTTP Request,200,OK,Grupa wątków 1-56,text,true,,3411,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076082165,83,HTTP Request,200,OK,Grupa wątków 1-56,text,true,,3417,157,1,1,http://127.0.0.1:8000/,81,0,0
-1586076082248,92,HTTP Request,200,OK,Grupa wątków 1-56,text,true,,3421,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076082340,83,HTTP Request,200,OK,Grupa wątków 1-56,text,true,,3421,157,1,1,http://127.0.0.1:8000/,81,0,0
-1586076082423,85,HTTP Request,200,OK,Grupa wątków 1-56,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076082508,84,HTTP Request,200,OK,Grupa wątków 1-56,text,true,,3419,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076082737,95,HTTP Request,200,OK,Grupa wątków 1-57,text,true,,3417,157,1,1,http://127.0.0.1:8000/,94,0,1
-1586076082833,83,HTTP Request,200,OK,Grupa wątków 1-57,text,true,,3415,157,1,1,http://127.0.0.1:8000/,81,0,0
-1586076082916,84,HTTP Request,200,OK,Grupa wątków 1-57,text,true,,3421,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076083000,85,HTTP Request,200,OK,Grupa wątków 1-57,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076083085,87,HTTP Request,200,OK,Grupa wątków 1-57,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076083172,86,HTTP Request,200,OK,Grupa wątków 1-57,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076083258,94,HTTP Request,200,OK,Grupa wątków 1-57,text,true,,3415,157,1,1,http://127.0.0.1:8000/,92,0,1
-1586076083352,84,HTTP Request,200,OK,Grupa wątków 1-57,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076083436,89,HTTP Request,200,OK,Grupa wątków 1-57,text,true,,3417,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076083525,84,HTTP Request,200,OK,Grupa wątków 1-57,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076083728,93,HTTP Request,200,OK,Grupa wątków 1-58,text,true,,3417,157,1,1,http://127.0.0.1:8000/,92,0,1
-1586076083821,86,HTTP Request,200,OK,Grupa wątków 1-58,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076083907,86,HTTP Request,200,OK,Grupa wątków 1-58,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076083993,84,HTTP Request,200,OK,Grupa wątków 1-58,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076084077,85,HTTP Request,200,OK,Grupa wątków 1-58,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076084162,85,HTTP Request,200,OK,Grupa wątków 1-58,text,true,,3423,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076084247,93,HTTP Request,200,OK,Grupa wątków 1-58,text,true,,3413,157,1,1,http://127.0.0.1:8000/,91,0,0
-1586076084340,87,HTTP Request,200,OK,Grupa wątków 1-58,text,true,,3413,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076084427,85,HTTP Request,200,OK,Grupa wątków 1-58,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076084513,87,HTTP Request,200,OK,Grupa wątków 1-58,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076084728,96,HTTP Request,200,OK,Grupa wątków 1-59,text,true,,3419,157,1,1,http://127.0.0.1:8000/,94,0,1
-1586076084824,88,HTTP Request,200,OK,Grupa wątków 1-59,text,true,,3413,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076084912,90,HTTP Request,200,OK,Grupa wątków 1-59,text,true,,3411,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076085003,88,HTTP Request,200,OK,Grupa wątków 1-59,text,true,,3411,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076085091,86,HTTP Request,200,OK,Grupa wątków 1-59,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076085177,88,HTTP Request,200,OK,Grupa wątków 1-59,text,true,,3415,157,1,1,http://127.0.0.1:8000/,87,0,0
-1586076085266,92,HTTP Request,200,OK,Grupa wątków 1-59,text,true,,3419,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076085358,87,HTTP Request,200,OK,Grupa wątków 1-59,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076085445,91,HTTP Request,200,OK,Grupa wątków 1-59,text,true,,3419,157,1,1,http://127.0.0.1:8000/,89,0,1
-1586076085536,91,HTTP Request,200,OK,Grupa wątków 1-59,text,true,,3415,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076085728,98,HTTP Request,200,OK,Grupa wątków 1-60,text,true,,3417,157,1,1,http://127.0.0.1:8000/,97,0,2
-1586076085827,88,HTTP Request,200,OK,Grupa wątków 1-60,text,true,,3423,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076085915,87,HTTP Request,200,OK,Grupa wątków 1-60,text,true,,3419,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076086003,86,HTTP Request,200,OK,Grupa wątków 1-60,text,true,,3411,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076086090,88,HTTP Request,200,OK,Grupa wątków 1-60,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076086178,88,HTTP Request,200,OK,Grupa wątków 1-60,text,true,,3419,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076086266,100,HTTP Request,200,OK,Grupa wątków 1-60,text,true,,3413,157,1,1,http://127.0.0.1:8000/,99,0,0
-1586076086366,86,HTTP Request,200,OK,Grupa wątków 1-60,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076086452,87,HTTP Request,200,OK,Grupa wątków 1-60,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076086539,87,HTTP Request,200,OK,Grupa wątków 1-60,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076086740,105,HTTP Request,200,OK,Grupa wątków 1-61,text,true,,3415,157,1,1,http://127.0.0.1:8000/,103,0,1
-1586076086845,86,HTTP Request,200,OK,Grupa wątków 1-61,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076086931,102,HTTP Request,200,OK,Grupa wątków 1-61,text,true,,3415,157,1,1,http://127.0.0.1:8000/,100,0,0
-1586076087033,88,HTTP Request,200,OK,Grupa wątków 1-61,text,true,,3417,157,1,1,http://127.0.0.1:8000/,87,0,0
-1586076087121,90,HTTP Request,200,OK,Grupa wątków 1-61,text,true,,3413,157,1,1,http://127.0.0.1:8000/,89,0,1
-1586076087211,101,HTTP Request,200,OK,Grupa wątków 1-61,text,true,,3415,157,1,1,http://127.0.0.1:8000/,99,0,1
-1586076087313,94,HTTP Request,200,OK,Grupa wątków 1-61,text,true,,3419,157,1,1,http://127.0.0.1:8000/,93,0,0
-1586076087407,89,HTTP Request,200,OK,Grupa wątków 1-61,text,true,,3415,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076087496,246,HTTP Request,200,OK,Grupa wątków 1-61,text,true,,3413,157,2,2,http://127.0.0.1:8000/,245,0,0
-1586076087728,114,HTTP Request,200,OK,Grupa wątków 1-62,text,true,,3417,157,2,2,http://127.0.0.1:8000/,113,0,0
-1586076087742,185,HTTP Request,200,OK,Grupa wątków 1-61,text,true,,3417,157,2,2,http://127.0.0.1:8000/,184,0,1
-1586076087842,179,HTTP Request,200,OK,Grupa wątków 1-62,text,true,,3415,157,1,1,http://127.0.0.1:8000/,178,0,1
-1586076088022,85,HTTP Request,200,OK,Grupa wątków 1-62,text,true,,3429,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076088107,85,HTTP Request,200,OK,Grupa wątków 1-62,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076088192,85,HTTP Request,200,OK,Grupa wątków 1-62,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076088277,94,HTTP Request,200,OK,Grupa wątków 1-62,text,true,,3413,157,1,1,http://127.0.0.1:8000/,93,0,0
-1586076088372,87,HTTP Request,200,OK,Grupa wątków 1-62,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076088459,88,HTTP Request,200,OK,Grupa wątków 1-62,text,true,,3423,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076088547,90,HTTP Request,200,OK,Grupa wątków 1-62,text,true,,3415,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076088637,89,HTTP Request,200,OK,Grupa wątków 1-62,text,true,,3417,157,1,1,http://127.0.0.1:8000/,87,0,0
-1586076088728,96,HTTP Request,200,OK,Grupa wątków 1-63,text,true,,3415,157,1,1,http://127.0.0.1:8000/,94,0,0
-1586076088824,89,HTTP Request,200,OK,Grupa wątków 1-63,text,true,,3417,157,1,1,http://127.0.0.1:8000/,88,0,1
-1586076088914,87,HTTP Request,200,OK,Grupa wątków 1-63,text,true,,3413,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076089001,88,HTTP Request,200,OK,Grupa wątków 1-63,text,true,,3423,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076089089,87,HTTP Request,200,OK,Grupa wątków 1-63,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076089177,85,HTTP Request,200,OK,Grupa wątków 1-63,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076089262,97,HTTP Request,200,OK,Grupa wątków 1-63,text,true,,3413,157,1,1,http://127.0.0.1:8000/,95,0,0
-1586076089359,87,HTTP Request,200,OK,Grupa wątków 1-63,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076089447,87,HTTP Request,200,OK,Grupa wątków 1-63,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076089534,90,HTTP Request,200,OK,Grupa wątków 1-63,text,true,,3419,157,1,1,http://127.0.0.1:8000/,89,0,1
-1586076089727,95,HTTP Request,200,OK,Grupa wątków 1-64,text,true,,3417,157,1,1,http://127.0.0.1:8000/,94,0,1
-1586076089823,91,HTTP Request,200,OK,Grupa wątków 1-64,text,true,,3411,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076089914,87,HTTP Request,200,OK,Grupa wątków 1-64,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076090001,85,HTTP Request,200,OK,Grupa wątków 1-64,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076090086,85,HTTP Request,200,OK,Grupa wątków 1-64,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076090171,84,HTTP Request,200,OK,Grupa wątków 1-64,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076090256,99,HTTP Request,200,OK,Grupa wątków 1-64,text,true,,3419,157,1,1,http://127.0.0.1:8000/,98,0,0
-1586076090355,85,HTTP Request,200,OK,Grupa wątków 1-64,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076090440,84,HTTP Request,200,OK,Grupa wątków 1-64,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076090524,85,HTTP Request,200,OK,Grupa wątków 1-64,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076090712,86,HTTP Request,200,OK,Grupa wątków 1-65,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076090798,91,HTTP Request,200,OK,Grupa wątków 1-65,text,true,,3417,157,1,1,http://127.0.0.1:8000/,89,0,1
-1586076090889,84,HTTP Request,200,OK,Grupa wątków 1-65,text,true,,3421,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076090973,86,HTTP Request,200,OK,Grupa wątków 1-65,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076091059,86,HTTP Request,200,OK,Grupa wątków 1-65,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076091145,86,HTTP Request,200,OK,Grupa wątków 1-65,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076091231,86,HTTP Request,200,OK,Grupa wątków 1-65,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076091317,90,HTTP Request,200,OK,Grupa wątków 1-65,text,true,,3417,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076091408,84,HTTP Request,200,OK,Grupa wątków 1-65,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076091493,85,HTTP Request,200,OK,Grupa wątków 1-65,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076091711,84,HTTP Request,200,OK,Grupa wątków 1-66,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076091796,90,HTTP Request,200,OK,Grupa wątków 1-66,text,true,,3411,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076091886,84,HTTP Request,200,OK,Grupa wątków 1-66,text,true,,3411,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076091972,85,HTTP Request,200,OK,Grupa wątków 1-66,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076092057,88,HTTP Request,200,OK,Grupa wątków 1-66,text,true,,3413,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076092145,85,HTTP Request,200,OK,Grupa wątków 1-66,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076092230,86,HTTP Request,200,OK,Grupa wątków 1-66,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076092316,93,HTTP Request,200,OK,Grupa wątków 1-66,text,true,,3413,157,1,1,http://127.0.0.1:8000/,91,0,0
-1586076092409,85,HTTP Request,200,OK,Grupa wątków 1-66,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076092494,88,HTTP Request,200,OK,Grupa wątków 1-66,text,true,,3417,157,1,1,http://127.0.0.1:8000/,87,0,0
-1586076092712,87,HTTP Request,200,OK,Grupa wątków 1-67,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076092800,96,HTTP Request,200,OK,Grupa wątków 1-67,text,true,,3421,157,1,1,http://127.0.0.1:8000/,95,0,0
-1586076092896,85,HTTP Request,200,OK,Grupa wątków 1-67,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076092981,89,HTTP Request,200,OK,Grupa wątków 1-67,text,true,,3421,157,1,1,http://127.0.0.1:8000/,87,0,4
-1586076093070,88,HTTP Request,200,OK,Grupa wątków 1-67,text,true,,3415,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076093158,87,HTTP Request,200,OK,Grupa wątków 1-67,text,true,,3413,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076093245,97,HTTP Request,200,OK,Grupa wątków 1-67,text,true,,3415,157,1,1,http://127.0.0.1:8000/,95,0,0
-1586076093342,99,HTTP Request,200,OK,Grupa wątków 1-67,text,true,,3415,157,1,1,http://127.0.0.1:8000/,98,0,0
-1586076093441,91,HTTP Request,200,OK,Grupa wątków 1-67,text,true,,3413,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076093533,90,HTTP Request,200,OK,Grupa wątków 1-67,text,true,,3415,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076093713,90,HTTP Request,200,OK,Grupa wątków 1-68,text,true,,3415,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076093803,92,HTTP Request,200,OK,Grupa wątków 1-68,text,true,,3415,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076093895,85,HTTP Request,200,OK,Grupa wątków 1-68,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076093980,86,HTTP Request,200,OK,Grupa wątków 1-68,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076094066,83,HTTP Request,200,OK,Grupa wątków 1-68,text,true,,3419,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076094149,83,HTTP Request,200,OK,Grupa wątków 1-68,text,true,,3415,157,1,1,http://127.0.0.1:8000/,81,0,0
-1586076094232,85,HTTP Request,200,OK,Grupa wątków 1-68,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076094318,97,HTTP Request,200,OK,Grupa wątków 1-68,text,true,,3417,157,1,1,http://127.0.0.1:8000/,95,0,0
-1586076094415,86,HTTP Request,200,OK,Grupa wątków 1-68,text,true,,3413,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076094501,88,HTTP Request,200,OK,Grupa wątków 1-68,text,true,,3419,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076094713,85,HTTP Request,200,OK,Grupa wątków 1-69,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076094798,94,HTTP Request,200,OK,Grupa wątków 1-69,text,true,,3421,157,1,1,http://127.0.0.1:8000/,91,0,1
-1586076094892,85,HTTP Request,200,OK,Grupa wątków 1-69,text,true,,3411,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076094977,86,HTTP Request,200,OK,Grupa wątków 1-69,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076095063,84,HTTP Request,200,OK,Grupa wątków 1-69,text,true,,3427,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076095148,85,HTTP Request,200,OK,Grupa wątków 1-69,text,true,,3411,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076095233,85,HTTP Request,200,OK,Grupa wątków 1-69,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076095319,92,HTTP Request,200,OK,Grupa wątków 1-69,text,true,,3419,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076095411,85,HTTP Request,200,OK,Grupa wątków 1-69,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076095496,87,HTTP Request,200,OK,Grupa wątków 1-69,text,true,,3419,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076095713,84,HTTP Request,200,OK,Grupa wątków 1-70,text,true,,3419,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076095797,87,HTTP Request,200,OK,Grupa wątków 1-70,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076095884,250,HTTP Request,200,OK,Grupa wątków 1-70,text,true,,3423,157,1,1,http://127.0.0.1:8000/,248,0,0
-1586076096134,85,HTTP Request,200,OK,Grupa wątków 1-70,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076096219,85,HTTP Request,200,OK,Grupa wątków 1-70,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076096304,88,HTTP Request,200,OK,Grupa wątków 1-70,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076096392,87,HTTP Request,200,OK,Grupa wątków 1-70,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076096479,87,HTTP Request,200,OK,Grupa wątków 1-70,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076096566,86,HTTP Request,200,OK,Grupa wątków 1-70,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076096652,85,HTTP Request,200,OK,Grupa wątków 1-70,text,true,,3417,157,2,2,http://127.0.0.1:8000/,84,0,0
-1586076096713,110,HTTP Request,200,OK,Grupa wątków 1-71,text,true,,3417,157,1,1,http://127.0.0.1:8000/,108,0,0
-1586076096823,86,HTTP Request,200,OK,Grupa wątków 1-71,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076096910,89,HTTP Request,200,OK,Grupa wątków 1-71,text,true,,3419,157,1,1,http://127.0.0.1:8000/,87,0,0
-1586076096999,87,HTTP Request,200,OK,Grupa wątków 1-71,text,true,,3421,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076097086,84,HTTP Request,200,OK,Grupa wątków 1-71,text,true,,3423,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076097171,104,HTTP Request,200,OK,Grupa wątków 1-71,text,true,,3419,157,1,1,http://127.0.0.1:8000/,103,0,0
-1586076097275,90,HTTP Request,200,OK,Grupa wątków 1-71,text,true,,3417,157,1,1,http://127.0.0.1:8000/,89,0,1
-1586076097365,92,HTTP Request,200,OK,Grupa wątków 1-71,text,true,,3419,157,1,1,http://127.0.0.1:8000/,91,0,1
-1586076097457,86,HTTP Request,200,OK,Grupa wątków 1-71,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076097543,85,HTTP Request,200,OK,Grupa wątków 1-71,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076097713,84,HTTP Request,200,OK,Grupa wątków 1-72,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076097797,83,HTTP Request,200,OK,Grupa wątków 1-72,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076097880,91,HTTP Request,200,OK,Grupa wątków 1-72,text,true,,3415,157,1,1,http://127.0.0.1:8000/,90,0,1
-1586076097972,84,HTTP Request,200,OK,Grupa wątków 1-72,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076098057,85,HTTP Request,200,OK,Grupa wątków 1-72,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076098142,86,HTTP Request,200,OK,Grupa wątków 1-72,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076098228,86,HTTP Request,200,OK,Grupa wątków 1-72,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076098314,85,HTTP Request,200,OK,Grupa wątków 1-72,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076098399,90,HTTP Request,200,OK,Grupa wątków 1-72,text,true,,3411,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076098490,86,HTTP Request,200,OK,Grupa wątków 1-72,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076098712,84,HTTP Request,200,OK,Grupa wątków 1-73,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076098796,86,HTTP Request,200,OK,Grupa wątków 1-73,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076098882,91,HTTP Request,200,OK,Grupa wątków 1-73,text,true,,3415,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076098973,83,HTTP Request,200,OK,Grupa wątków 1-73,text,true,,3413,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076099057,86,HTTP Request,200,OK,Grupa wątków 1-73,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076099143,85,HTTP Request,200,OK,Grupa wątków 1-73,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076099228,85,HTTP Request,200,OK,Grupa wątków 1-73,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076099313,84,HTTP Request,200,OK,Grupa wątków 1-73,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076099397,92,HTTP Request,200,OK,Grupa wątków 1-73,text,true,,3413,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076099489,85,HTTP Request,200,OK,Grupa wątków 1-73,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076099712,84,HTTP Request,200,OK,Grupa wątków 1-74,text,true,,3421,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076099796,83,HTTP Request,200,OK,Grupa wątków 1-74,text,true,,3417,157,1,1,http://127.0.0.1:8000/,81,0,0
-1586076099879,92,HTTP Request,200,OK,Grupa wątków 1-74,text,true,,3417,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076099971,93,HTTP Request,200,OK,Grupa wątków 1-74,text,true,,3415,157,1,1,http://127.0.0.1:8000/,91,0,1
-1586076100064,85,HTTP Request,200,OK,Grupa wątków 1-74,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076100149,85,HTTP Request,200,OK,Grupa wątków 1-74,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076100234,86,HTTP Request,200,OK,Grupa wątków 1-74,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076100320,84,HTTP Request,200,OK,Grupa wątków 1-74,text,true,,3413,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076100404,91,HTTP Request,200,OK,Grupa wątków 1-74,text,true,,3413,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076100496,85,HTTP Request,200,OK,Grupa wątków 1-74,text,true,,3423,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076100713,84,HTTP Request,200,OK,Grupa wątków 1-75,text,true,,3411,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076100797,86,HTTP Request,200,OK,Grupa wątków 1-75,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076100883,87,HTTP Request,200,OK,Grupa wątków 1-75,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076100970,89,HTTP Request,200,OK,Grupa wątków 1-75,text,true,,3415,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076101059,86,HTTP Request,200,OK,Grupa wątków 1-75,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076101145,84,HTTP Request,200,OK,Grupa wątków 1-75,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076101230,85,HTTP Request,200,OK,Grupa wątków 1-75,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076101315,85,HTTP Request,200,OK,Grupa wątków 1-75,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076101400,93,HTTP Request,200,OK,Grupa wątków 1-75,text,true,,3415,157,1,1,http://127.0.0.1:8000/,91,0,0
-1586076101493,87,HTTP Request,200,OK,Grupa wątków 1-75,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076101728,86,HTTP Request,200,OK,Grupa wątków 1-76,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076101814,84,HTTP Request,200,OK,Grupa wątków 1-76,text,true,,3423,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076101898,96,HTTP Request,200,OK,Grupa wątków 1-76,text,true,,3415,157,1,1,http://127.0.0.1:8000/,94,0,1
-1586076101994,85,HTTP Request,200,OK,Grupa wątków 1-76,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076102079,85,HTTP Request,200,OK,Grupa wątków 1-76,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076102164,85,HTTP Request,200,OK,Grupa wątków 1-76,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076102249,85,HTTP Request,200,OK,Grupa wątków 1-76,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076102334,84,HTTP Request,200,OK,Grupa wątków 1-76,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076102418,92,HTTP Request,200,OK,Grupa wątków 1-76,text,true,,3419,157,1,1,http://127.0.0.1:8000/,91,0,0
-1586076102510,86,HTTP Request,200,OK,Grupa wątków 1-76,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076102728,84,HTTP Request,200,OK,Grupa wątków 1-77,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076102812,85,HTTP Request,200,OK,Grupa wątków 1-77,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076102897,91,HTTP Request,200,OK,Grupa wątków 1-77,text,true,,3413,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076102989,86,HTTP Request,200,OK,Grupa wątków 1-77,text,true,,3423,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076103076,85,HTTP Request,200,OK,Grupa wątków 1-77,text,true,,3421,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076103161,249,HTTP Request,200,OK,Grupa wątków 1-77,text,true,,3421,157,1,1,http://127.0.0.1:8000/,247,0,0
-1586076103410,93,HTTP Request,200,OK,Grupa wątków 1-77,text,true,,3419,157,1,1,http://127.0.0.1:8000/,92,0,0
-1586076103504,84,HTTP Request,200,OK,Grupa wątków 1-77,text,true,,3411,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076103588,84,HTTP Request,200,OK,Grupa wątków 1-77,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076103673,86,HTTP Request,200,OK,Grupa wątków 1-77,text,true,,3417,157,2,2,http://127.0.0.1:8000/,84,0,0
-1586076103728,115,HTTP Request,200,OK,Grupa wątków 1-78,text,true,,3421,157,1,1,http://127.0.0.1:8000/,114,0,1
-1586076103843,83,HTTP Request,200,OK,Grupa wątków 1-78,text,true,,3413,157,1,1,http://127.0.0.1:8000/,81,0,0
-1586076103926,92,HTTP Request,200,OK,Grupa wątków 1-78,text,true,,3427,157,1,1,http://127.0.0.1:8000/,90,0,1
-1586076104018,86,HTTP Request,200,OK,Grupa wątków 1-78,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076104104,84,HTTP Request,200,OK,Grupa wątków 1-78,text,true,,3423,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076104188,85,HTTP Request,200,OK,Grupa wątków 1-78,text,true,,3423,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076104273,90,HTTP Request,200,OK,Grupa wątków 1-78,text,true,,3417,157,1,1,http://127.0.0.1:8000/,89,0,1
-1586076104363,85,HTTP Request,200,OK,Grupa wątków 1-78,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076104449,92,HTTP Request,200,OK,Grupa wątków 1-78,text,true,,3415,157,1,1,http://127.0.0.1:8000/,91,0,0
-1586076104541,85,HTTP Request,200,OK,Grupa wątków 1-78,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076104713,83,HTTP Request,200,OK,Grupa wątków 1-79,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076104797,84,HTTP Request,200,OK,Grupa wątków 1-79,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076104881,86,HTTP Request,200,OK,Grupa wątków 1-79,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076104967,89,HTTP Request,200,OK,Grupa wątków 1-79,text,true,,3417,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076105056,85,HTTP Request,200,OK,Grupa wątków 1-79,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076105141,85,HTTP Request,200,OK,Grupa wątków 1-79,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076105226,89,HTTP Request,200,OK,Grupa wątków 1-79,text,true,,3423,157,1,1,http://127.0.0.1:8000/,88,0,1
-1586076105315,85,HTTP Request,200,OK,Grupa wątków 1-79,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076105400,92,HTTP Request,200,OK,Grupa wątków 1-79,text,true,,3415,157,1,1,http://127.0.0.1:8000/,91,0,0
-1586076105493,86,HTTP Request,200,OK,Grupa wątków 1-79,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076105713,86,HTTP Request,200,OK,Grupa wątków 1-80,text,true,,3413,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076105800,87,HTTP Request,200,OK,Grupa wątków 1-80,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,4
-1586076105887,90,HTTP Request,200,OK,Grupa wątków 1-80,text,true,,3427,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076105977,89,HTTP Request,200,OK,Grupa wątków 1-80,text,true,,3417,157,1,1,http://127.0.0.1:8000/,88,0,1
-1586076106067,86,HTTP Request,200,OK,Grupa wątków 1-80,text,true,,3411,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076106153,85,HTTP Request,200,OK,Grupa wątków 1-80,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076106238,85,HTTP Request,200,OK,Grupa wątków 1-80,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076106323,85,HTTP Request,200,OK,Grupa wątków 1-80,text,true,,3423,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076106408,93,HTTP Request,200,OK,Grupa wątków 1-80,text,true,,3415,157,1,1,http://127.0.0.1:8000/,91,0,0
-1586076106501,85,HTTP Request,200,OK,Grupa wątków 1-80,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076106728,86,HTTP Request,200,OK,Grupa wątków 1-81,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076106814,85,HTTP Request,200,OK,Grupa wątków 1-81,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076106899,93,HTTP Request,200,OK,Grupa wątków 1-81,text,true,,3411,157,1,1,http://127.0.0.1:8000/,91,0,0
-1586076106992,88,HTTP Request,200,OK,Grupa wątków 1-81,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076107080,85,HTTP Request,200,OK,Grupa wątków 1-81,text,true,,3427,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076107165,84,HTTP Request,200,OK,Grupa wątków 1-81,text,true,,3419,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076107249,86,HTTP Request,200,OK,Grupa wątków 1-81,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076107335,84,HTTP Request,200,OK,Grupa wątków 1-81,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076107419,93,HTTP Request,200,OK,Grupa wątków 1-81,text,true,,3419,157,1,1,http://127.0.0.1:8000/,92,0,1
-1586076107512,85,HTTP Request,200,OK,Grupa wątków 1-81,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076107712,86,HTTP Request,200,OK,Grupa wątków 1-82,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076107798,85,HTTP Request,200,OK,Grupa wątków 1-82,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076107883,85,HTTP Request,200,OK,Grupa wątków 1-82,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076107968,93,HTTP Request,200,OK,Grupa wątków 1-82,text,true,,3417,157,1,1,http://127.0.0.1:8000/,91,0,1
-1586076108061,84,HTTP Request,200,OK,Grupa wątków 1-82,text,true,,3411,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076108145,85,HTTP Request,200,OK,Grupa wątków 1-82,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076108231,85,HTTP Request,200,OK,Grupa wątków 1-82,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076108316,86,HTTP Request,200,OK,Grupa wątków 1-82,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076108402,92,HTTP Request,200,OK,Grupa wątków 1-82,text,true,,3421,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076108494,88,HTTP Request,200,OK,Grupa wątków 1-82,text,true,,3421,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076108729,85,HTTP Request,200,OK,Grupa wątków 1-83,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076108814,84,HTTP Request,200,OK,Grupa wątków 1-83,text,true,,3423,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076108899,86,HTTP Request,200,OK,Grupa wątków 1-83,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076108985,91,HTTP Request,200,OK,Grupa wątków 1-83,text,true,,3423,157,1,1,http://127.0.0.1:8000/,90,0,1
-1586076109076,86,HTTP Request,200,OK,Grupa wątków 1-83,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076109162,84,HTTP Request,200,OK,Grupa wątków 1-83,text,true,,3423,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076109246,87,HTTP Request,200,OK,Grupa wątków 1-83,text,true,,3421,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076109333,85,HTTP Request,200,OK,Grupa wątków 1-83,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076109418,92,HTTP Request,200,OK,Grupa wątków 1-83,text,true,,3417,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076109510,84,HTTP Request,200,OK,Grupa wątków 1-83,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076109743,87,HTTP Request,200,OK,Grupa wątków 1-84,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076109830,87,HTTP Request,200,OK,Grupa wątków 1-84,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076109917,94,HTTP Request,200,OK,Grupa wątków 1-84,text,true,,3415,157,1,1,http://127.0.0.1:8000/,92,0,1
-1586076110011,86,HTTP Request,200,OK,Grupa wątków 1-84,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076110097,86,HTTP Request,200,OK,Grupa wątków 1-84,text,true,,3413,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076110183,85,HTTP Request,200,OK,Grupa wątków 1-84,text,true,,3423,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076110268,84,HTTP Request,200,OK,Grupa wątków 1-84,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076110353,87,HTTP Request,200,OK,Grupa wątków 1-84,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076110440,94,HTTP Request,200,OK,Grupa wątków 1-84,text,true,,3415,157,1,1,http://127.0.0.1:8000/,92,0,0
-1586076110534,86,HTTP Request,200,OK,Grupa wątków 1-84,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076110728,84,HTTP Request,200,OK,Grupa wątków 1-85,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076110812,83,HTTP Request,200,OK,Grupa wątków 1-85,text,true,,3417,157,1,1,http://127.0.0.1:8000/,81,0,0
-1586076110895,84,HTTP Request,200,OK,Grupa wątków 1-85,text,true,,3413,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076110979,90,HTTP Request,200,OK,Grupa wątków 1-85,text,true,,3411,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076111069,86,HTTP Request,200,OK,Grupa wątków 1-85,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076111155,86,HTTP Request,200,OK,Grupa wątków 1-85,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076111241,86,HTTP Request,200,OK,Grupa wątków 1-85,text,true,,3423,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076111327,85,HTTP Request,200,OK,Grupa wątków 1-85,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076111412,84,HTTP Request,200,OK,Grupa wątków 1-85,text,true,,3419,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076111496,93,HTTP Request,200,OK,Grupa wątków 1-85,text,true,,3415,157,1,1,http://127.0.0.1:8000/,91,0,1
-1586076111728,86,HTTP Request,200,OK,Grupa wątków 1-86,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076111813,83,HTTP Request,200,OK,Grupa wątków 1-86,text,true,,3417,157,1,1,http://127.0.0.1:8000/,81,0,1
-1586076111896,83,HTTP Request,200,OK,Grupa wątków 1-86,text,true,,3421,157,1,1,http://127.0.0.1:8000/,81,0,0
-1586076111979,94,HTTP Request,200,OK,Grupa wątków 1-86,text,true,,3415,157,1,1,http://127.0.0.1:8000/,92,0,1
-1586076112073,86,HTTP Request,200,OK,Grupa wątków 1-86,text,true,,3423,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076112159,86,HTTP Request,200,OK,Grupa wątków 1-86,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076112245,84,HTTP Request,200,OK,Grupa wątków 1-86,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076112329,85,HTTP Request,200,OK,Grupa wątków 1-86,text,true,,3423,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076112414,85,HTTP Request,200,OK,Grupa wątków 1-86,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076112499,91,HTTP Request,200,OK,Grupa wątków 1-86,text,true,,3411,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076112727,83,HTTP Request,200,OK,Grupa wątków 1-87,text,true,,3425,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076112811,84,HTTP Request,200,OK,Grupa wątków 1-87,text,true,,3419,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076112895,83,HTTP Request,200,OK,Grupa wątków 1-87,text,true,,3413,157,1,1,http://127.0.0.1:8000/,81,0,1
-1586076112978,92,HTTP Request,200,OK,Grupa wątków 1-87,text,true,,3421,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076113070,85,HTTP Request,200,OK,Grupa wątków 1-87,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076113155,85,HTTP Request,200,OK,Grupa wątków 1-87,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076113240,85,HTTP Request,200,OK,Grupa wątków 1-87,text,true,,3411,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076113325,85,HTTP Request,200,OK,Grupa wątków 1-87,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076113410,85,HTTP Request,200,OK,Grupa wątków 1-87,text,true,,3423,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076113495,92,HTTP Request,200,OK,Grupa wątków 1-87,text,true,,3421,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076113727,85,HTTP Request,200,OK,Grupa wątków 1-88,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076113812,86,HTTP Request,200,OK,Grupa wątków 1-88,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076113898,84,HTTP Request,200,OK,Grupa wątków 1-88,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076113982,89,HTTP Request,200,OK,Grupa wątków 1-88,text,true,,3415,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076114071,85,HTTP Request,200,OK,Grupa wątków 1-88,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076114156,84,HTTP Request,200,OK,Grupa wątków 1-88,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076114241,86,HTTP Request,200,OK,Grupa wątków 1-88,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076114327,85,HTTP Request,200,OK,Grupa wątków 1-88,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076114413,84,HTTP Request,200,OK,Grupa wątków 1-88,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076114497,90,HTTP Request,200,OK,Grupa wątków 1-88,text,true,,3419,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076114728,86,HTTP Request,200,OK,Grupa wątków 1-89,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076114814,85,HTTP Request,200,OK,Grupa wątków 1-89,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076114899,85,HTTP Request,200,OK,Grupa wątków 1-89,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076114984,96,HTTP Request,200,OK,Grupa wątków 1-89,text,true,,3415,157,1,1,http://127.0.0.1:8000/,94,0,0
-1586076115080,89,HTTP Request,200,OK,Grupa wątków 1-89,text,true,,3415,157,1,1,http://127.0.0.1:8000/,88,0,1
-1586076115170,85,HTTP Request,200,OK,Grupa wątków 1-89,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076115255,85,HTTP Request,200,OK,Grupa wątków 1-89,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076115340,84,HTTP Request,200,OK,Grupa wątków 1-89,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076115424,85,HTTP Request,200,OK,Grupa wątków 1-89,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076115510,91,HTTP Request,200,OK,Grupa wątków 1-89,text,true,,3413,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076115727,86,HTTP Request,200,OK,Grupa wątków 1-90,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076115813,86,HTTP Request,200,OK,Grupa wątków 1-90,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076115899,84,HTTP Request,200,OK,Grupa wątków 1-90,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076115983,88,HTTP Request,200,OK,Grupa wątków 1-90,text,true,,3413,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076116071,85,HTTP Request,200,OK,Grupa wątków 1-90,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076116156,84,HTTP Request,200,OK,Grupa wątków 1-90,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076116240,86,HTTP Request,200,OK,Grupa wątków 1-90,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076116326,85,HTTP Request,200,OK,Grupa wątków 1-90,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076116411,85,HTTP Request,200,OK,Grupa wątków 1-90,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076116496,93,HTTP Request,200,OK,Grupa wątków 1-90,text,true,,3419,157,1,1,http://127.0.0.1:8000/,92,0,0
-1586076116728,85,HTTP Request,200,OK,Grupa wątków 1-91,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076116813,87,HTTP Request,200,OK,Grupa wątków 1-91,text,true,,3413,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076116900,84,HTTP Request,200,OK,Grupa wątków 1-91,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076116984,84,HTTP Request,200,OK,Grupa wątków 1-91,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076117069,91,HTTP Request,200,OK,Grupa wątków 1-91,text,true,,3415,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076117160,84,HTTP Request,200,OK,Grupa wątków 1-91,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076117244,84,HTTP Request,200,OK,Grupa wątków 1-91,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076117328,85,HTTP Request,200,OK,Grupa wątków 1-91,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076117413,84,HTTP Request,200,OK,Grupa wątków 1-91,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076117497,90,HTTP Request,200,OK,Grupa wątków 1-91,text,true,,3413,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076117728,83,HTTP Request,200,OK,Grupa wątków 1-92,text,true,,3423,157,1,1,http://127.0.0.1:8000/,81,0,1
-1586076117811,84,HTTP Request,200,OK,Grupa wątków 1-92,text,true,,3423,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076117895,84,HTTP Request,200,OK,Grupa wątków 1-92,text,true,,3421,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076117979,87,HTTP Request,200,OK,Grupa wątków 1-92,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076118066,90,HTTP Request,200,OK,Grupa wątków 1-92,text,true,,3417,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076118156,86,HTTP Request,200,OK,Grupa wątków 1-92,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076118242,86,HTTP Request,200,OK,Grupa wątków 1-92,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076118328,85,HTTP Request,200,OK,Grupa wątków 1-92,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076118413,84,HTTP Request,200,OK,Grupa wątków 1-92,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076118498,90,HTTP Request,200,OK,Grupa wątków 1-92,text,true,,3417,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076118728,83,HTTP Request,200,OK,Grupa wątków 1-93,text,true,,3419,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076118811,85,HTTP Request,200,OK,Grupa wątków 1-93,text,true,,3419,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076118896,83,HTTP Request,200,OK,Grupa wątków 1-93,text,true,,3417,157,1,1,http://127.0.0.1:8000/,81,0,0
-1586076118979,85,HTTP Request,200,OK,Grupa wątków 1-93,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076119064,91,HTTP Request,200,OK,Grupa wątków 1-93,text,true,,3411,157,1,1,http://127.0.0.1:8000/,89,0,0
-1586076119155,84,HTTP Request,200,OK,Grupa wątków 1-93,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076119239,86,HTTP Request,200,OK,Grupa wątków 1-93,text,true,,3415,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076119325,85,HTTP Request,200,OK,Grupa wątków 1-93,text,true,,3411,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076119411,100,HTTP Request,200,OK,Grupa wątków 1-93,text,true,,3415,157,1,1,http://127.0.0.1:8000/,99,0,0
-1586076119511,97,HTTP Request,200,OK,Grupa wątków 1-93,text,true,,3415,157,1,1,http://127.0.0.1:8000/,96,0,1
-1586076119727,91,HTTP Request,200,OK,Grupa wątków 1-94,text,true,,3421,157,1,1,http://127.0.0.1:8000/,89,0,1
-1586076119818,291,HTTP Request,200,OK,Grupa wątków 1-94,text,true,,3413,157,1,1,http://127.0.0.1:8000/,290,0,0
-1586076120109,88,HTTP Request,200,OK,Grupa wątków 1-94,text,true,,3423,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076120197,87,HTTP Request,200,OK,Grupa wątków 1-94,text,true,,3421,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076120284,87,HTTP Request,200,OK,Grupa wątków 1-94,text,true,,3413,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076120371,89,HTTP Request,200,OK,Grupa wątków 1-94,text,true,,3413,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076120460,85,HTTP Request,200,OK,Grupa wątków 1-94,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076120545,91,HTTP Request,200,OK,Grupa wątków 1-94,text,true,,3419,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076120636,86,HTTP Request,200,OK,Grupa wątków 1-94,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076120722,85,HTTP Request,200,OK,Grupa wątków 1-94,text,true,,3417,157,2,2,http://127.0.0.1:8000/,84,0,0
-1586076120728,164,HTTP Request,200,OK,Grupa wątków 1-95,text,true,,3419,157,1,1,http://127.0.0.1:8000/,162,0,0
-1586076120892,84,HTTP Request,200,OK,Grupa wątków 1-95,text,true,,3415,157,1,1,http://127.0.0.1:8000/,81,0,1
-1586076120976,85,HTTP Request,200,OK,Grupa wątków 1-95,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076121061,91,HTTP Request,200,OK,Grupa wątków 1-95,text,true,,3419,157,1,1,http://127.0.0.1:8000/,90,0,0
-1586076121152,86,HTTP Request,200,OK,Grupa wątków 1-95,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076121238,86,HTTP Request,200,OK,Grupa wątków 1-95,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076121324,85,HTTP Request,200,OK,Grupa wątków 1-95,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076121409,85,HTTP Request,200,OK,Grupa wątków 1-95,text,true,,3413,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076121494,85,HTTP Request,200,OK,Grupa wątków 1-95,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076121580,90,HTTP Request,200,OK,Grupa wątków 1-95,text,true,,3413,157,1,1,http://127.0.0.1:8000/,88,0,0
-1586076121712,85,HTTP Request,200,OK,Grupa wątków 1-96,text,true,,3415,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076121798,83,HTTP Request,200,OK,Grupa wątków 1-96,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076121881,84,HTTP Request,200,OK,Grupa wątków 1-96,text,true,,3413,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076121965,85,HTTP Request,200,OK,Grupa wątków 1-96,text,true,,3427,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076122050,96,HTTP Request,200,OK,Grupa wątków 1-96,text,true,,3417,157,1,1,http://127.0.0.1:8000/,94,0,1
-1586076122146,84,HTTP Request,200,OK,Grupa wątków 1-96,text,true,,3415,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076122230,88,HTTP Request,200,OK,Grupa wątków 1-96,text,true,,3417,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076122318,88,HTTP Request,200,OK,Grupa wątków 1-96,text,true,,3415,157,1,1,http://127.0.0.1:8000/,86,0,0
-1586076122406,270,HTTP Request,200,OK,Grupa wątków 1-96,text,true,,3413,157,1,1,http://127.0.0.1:8000/,268,0,0
-1586076122676,85,HTTP Request,200,OK,Grupa wątków 1-96,text,true,,3411,157,2,2,http://127.0.0.1:8000/,84,0,0
-1586076122728,117,HTTP Request,200,OK,Grupa wątków 1-97,text,true,,3425,157,1,1,http://127.0.0.1:8000/,116,0,1
-1586076122845,84,HTTP Request,200,OK,Grupa wątków 1-97,text,true,,3417,157,1,1,http://127.0.0.1:8000/,82,0,1
-1586076122929,84,HTTP Request,200,OK,Grupa wątków 1-97,text,true,,3425,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076123013,90,HTTP Request,200,OK,Grupa wątków 1-97,text,true,,3417,157,1,1,http://127.0.0.1:8000/,88,0,1
-1586076123103,88,HTTP Request,200,OK,Grupa wątków 1-97,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076123191,84,HTTP Request,200,OK,Grupa wątków 1-97,text,true,,3413,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076123275,85,HTTP Request,200,OK,Grupa wątków 1-97,text,true,,3425,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076123360,86,HTTP Request,200,OK,Grupa wątków 1-97,text,true,,3419,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076123446,86,HTTP Request,200,OK,Grupa wątków 1-97,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076123532,91,HTTP Request,200,OK,Grupa wątków 1-97,text,true,,3417,157,1,1,http://127.0.0.1:8000/,90,0,1
-1586076123713,83,HTTP Request,200,OK,Grupa wątków 1-98,text,true,,3417,157,1,1,http://127.0.0.1:8000/,81,0,0
-1586076123797,83,HTTP Request,200,OK,Grupa wątków 1-98,text,true,,3423,157,1,1,http://127.0.0.1:8000/,81,0,0
-1586076123880,84,HTTP Request,200,OK,Grupa wątków 1-98,text,true,,3413,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076123964,86,HTTP Request,200,OK,Grupa wątków 1-98,text,true,,3423,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076124050,91,HTTP Request,200,OK,Grupa wątków 1-98,text,true,,3413,157,1,1,http://127.0.0.1:8000/,90,0,1
-1586076124141,86,HTTP Request,200,OK,Grupa wątków 1-98,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,1
-1586076124227,85,HTTP Request,200,OK,Grupa wątków 1-98,text,true,,3419,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076124312,84,HTTP Request,200,OK,Grupa wątków 1-98,text,true,,3419,157,1,1,http://127.0.0.1:8000/,82,0,0
-1586076124396,85,HTTP Request,200,OK,Grupa wątków 1-98,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076124481,86,HTTP Request,200,OK,Grupa wątków 1-98,text,true,,3417,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076124728,86,HTTP Request,200,OK,Grupa wątków 1-99,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076124814,87,HTTP Request,200,OK,Grupa wątków 1-99,text,true,,3421,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076124901,91,HTTP Request,200,OK,Grupa wątków 1-99,text,true,,3417,157,1,1,http://127.0.0.1:8000/,89,0,1
-1586076124992,87,HTTP Request,200,OK,Grupa wątków 1-99,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076125079,93,HTTP Request,200,OK,Grupa wątków 1-99,text,true,,3421,157,1,1,http://127.0.0.1:8000/,92,0,1
-1586076125172,86,HTTP Request,200,OK,Grupa wątków 1-99,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076125258,88,HTTP Request,200,OK,Grupa wątków 1-99,text,true,,3417,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076125346,86,HTTP Request,200,OK,Grupa wątków 1-99,text,true,,3417,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076125432,89,HTTP Request,200,OK,Grupa wątków 1-99,text,true,,3417,157,1,1,http://127.0.0.1:8000/,87,0,1
-1586076125521,95,HTTP Request,200,OK,Grupa wątków 1-99,text,true,,3415,157,1,1,http://127.0.0.1:8000/,94,0,0
-1586076125712,85,HTTP Request,200,OK,Grupa wątków 1-100,text,true,,3417,157,1,1,http://127.0.0.1:8000/,83,0,1
-1586076125797,87,HTTP Request,200,OK,Grupa wątków 1-100,text,true,,3421,157,1,1,http://127.0.0.1:8000/,86,0,1
-1586076125884,87,HTTP Request,200,OK,Grupa wątków 1-100,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076125971,84,HTTP Request,200,OK,Grupa wątków 1-100,text,true,,3413,157,1,1,http://127.0.0.1:8000/,83,0,0
-1586076126055,94,HTTP Request,200,OK,Grupa wątków 1-100,text,true,,3417,157,1,1,http://127.0.0.1:8000/,93,0,1
-1586076126149,86,HTTP Request,200,OK,Grupa wątków 1-100,text,true,,3415,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076126235,86,HTTP Request,200,OK,Grupa wątków 1-100,text,true,,3427,157,1,1,http://127.0.0.1:8000/,85,0,0
-1586076126321,86,HTTP Request,200,OK,Grupa wątków 1-100,text,true,,3419,157,1,1,http://127.0.0.1:8000/,85,0,1
-1586076126407,85,HTTP Request,200,OK,Grupa wątków 1-100,text,true,,3413,157,1,1,http://127.0.0.1:8000/,84,0,0
-1586076126492,85,HTTP Request,200,OK,Grupa wątków 1-100,text,true,,3421,157,1,1,http://127.0.0.1:8000/,84,0,0
 1586077336293,2005,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-1,text,false,,2789,0,2,2,http://127.0.0.1:8000/,0,0,2005
 1586077337290,2013,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-2,text,false,,2789,0,4,4,http://127.0.0.1:8000/,0,0,2013
 1586077338303,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-3,text,false,,2789,0,5,5,http://127.0.0.1:8000/,0,0,2003
@@ -1058,8 +58,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077350306,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-5,text,false,,2789,0,16,16,http://127.0.0.1:8000/,0,0,2001
 1586077350319,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-15,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2001
 1586077350322,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-13,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2000
-1586077350320,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-3,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2002
 1586077350322,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-1,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2000
+1586077350320,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-3,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2002
 1586077350323,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-9,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2000
 1586077350323,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-11,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2000
 1586077350322,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-7,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2001
@@ -1214,8 +214,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077366325,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-29,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077366331,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-19,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077366333,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-15,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
-1586077366334,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-25,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077366335,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-17,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077366334,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-25,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077366335,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-21,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077366338,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-23,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077366347,2010,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-13,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2010
@@ -1235,8 +235,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077368326,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-29,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077368331,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-19,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077368336,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-25,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
-1586077368336,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-21,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077368336,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-17,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
+1586077368336,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-21,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077368336,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-15,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077368338,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-23,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2001
 1586077369320,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-34,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
@@ -1366,8 +366,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077381326,2005,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-42,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2005
 1586077381330,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-36,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077381331,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-32,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
-1586077381334,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-34,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077381333,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-30,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
+1586077381334,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-34,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077381334,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-28,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077382325,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-45,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077382326,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-41,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
@@ -1465,9 +465,9 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077391329,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-50,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077391332,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-48,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077391332,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-40,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077391332,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-46,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077391332,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-38,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077391332,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-44,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
-1586077391332,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-46,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077391337,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-42,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077392320,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-57,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077392322,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-55,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
@@ -2057,8 +1057,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077487492,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-4,text,false,,2789,0,16,16,http://127.0.0.1:8000/,0,0,2001
 1586077488474,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-11,text,false,,2789,0,16,16,http://127.0.0.1:8000/,0,0,2001
 1586077488477,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-15,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2000
-1586077488476,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-7,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2003
 1586077488478,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-9,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2001
+1586077488476,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-7,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2003
 1586077488480,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-13,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2001
 1586077488482,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-3,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2000
 1586077488486,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-5,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2000
@@ -2130,8 +1130,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077495497,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-18,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077495500,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-4,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077496477,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-23,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
-1586077496482,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-11,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077496482,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-19,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077496482,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-11,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077496484,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-17,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077496485,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-9,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077496486,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-13,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
@@ -2141,13 +1141,13 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077496494,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-21,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077497474,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-20,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2001
 1586077497478,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-16,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
-1586077497480,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-22,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077497478,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-24,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
+1586077497480,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-22,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077497481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-14,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077497487,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-12,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077497486,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-10,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
-1586077497490,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-8,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077497490,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-6,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077497490,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-8,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077497500,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-18,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077498467,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-25,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2004
 1586077498479,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-23,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
@@ -2165,8 +1165,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077499477,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-26,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2004
 1586077499480,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-24,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077499480,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-16,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
-1586077499487,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-12,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077499487,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-10,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077499487,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-12,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077499490,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-8,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077499500,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-18,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2002
 1586077500471,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-25,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2003
@@ -2183,15 +1183,15 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077501475,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-20,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077501481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-14,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077501481,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-24,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
-1586077501482,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-16,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077501481,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-22,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
+1586077501482,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-16,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077501481,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-26,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077501487,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-10,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077501487,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-12,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2002
 1586077501502,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-18,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2001
 1586077502474,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-25,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
-1586077502479,2005,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-29,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2005
 1586077502481,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-27,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
+1586077502479,2005,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-29,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2005
 1586077502485,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-23,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077502484,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-11,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077502486,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-17,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
@@ -2202,9 +1202,9 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077503472,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-28,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2001
 1586077503468,2005,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-30,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2005
 1586077503478,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-20,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
-1586077503482,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-16,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
-1586077503482,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-22,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077503482,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-24,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077503482,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-22,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077503482,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-16,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077503483,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-26,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077503481,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-14,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
 1586077503489,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-12,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
@@ -2234,8 +1234,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077506477,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-25,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2004
 1586077506485,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-29,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077506486,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-23,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
-1586077506485,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-27,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2004
 1586077506487,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-17,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
+1586077506485,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-27,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2004
 1586077506497,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-21,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
 1586077506500,2008,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-19,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2008
 1586077506507,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-15,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
@@ -2251,8 +1251,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077507505,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-18,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2003
 1586077508481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-33,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077508481,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-31,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
-1586077508482,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-35,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
 1586077508481,2005,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-25,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2004
+1586077508482,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-35,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
 1586077508487,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-29,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077508487,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-23,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077508490,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-27,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
@@ -2303,9 +1303,9 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077513474,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-36,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
 1586077513478,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-34,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077513481,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-28,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
-1586077513483,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-30,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
-1586077513482,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-32,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077513481,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-38,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
+1586077513482,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-32,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
+1586077513483,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-30,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077513486,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-24,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077513490,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-22,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077513491,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-26,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2002
@@ -2324,8 +1324,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077515477,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-42,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077515481,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-34,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077515482,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-28,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
-1586077515484,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-30,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077515484,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-32,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
+1586077515484,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-30,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077515484,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-38,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077515488,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-24,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077515494,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-26,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
@@ -2349,8 +1349,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077517481,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-34,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2004
 1586077517482,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-28,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2004
 1586077517493,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-26,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
-1586077518472,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-43,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2004
 1586077518475,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-39,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
+1586077518472,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-43,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2004
 1586077518475,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-45,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
 1586077518477,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-41,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
 1586077518485,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-33,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
@@ -2360,22 +1360,22 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077518492,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-27,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077518491,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-29,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2003
 1586077519472,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-46,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
-1586077519477,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-44,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
-1586077519479,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-36,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077519480,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-40,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077519479,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-36,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
+1586077519477,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-44,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
 1586077519480,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-42,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077519485,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-38,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077519485,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-30,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
-1586077519486,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-34,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077519486,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-28,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077519486,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-34,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077519486,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-32,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077520475,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-47,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2001
 1586077520477,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-43,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077520477,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-39,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077520479,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-45,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077520480,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-41,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2003
-1586077520486,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-37,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077520485,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-33,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2001
+1586077520486,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-37,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077520488,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-31,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077520489,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-35,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2001
 1586077520495,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-29,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2002
@@ -2384,13 +1384,13 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077521480,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-36,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077521480,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-42,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2004
 1586077521480,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-44,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2004
-1586077521485,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-38,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077521485,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-30,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
+1586077521485,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-38,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077521480,2006,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-40,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2006
 1586077521486,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-32,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077521486,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-34,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2001
-1586077522478,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-39,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077522477,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-47,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
+1586077522478,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-39,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077522478,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-43,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077522479,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-45,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077522484,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-41,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
@@ -2424,16 +1424,16 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077525472,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-48,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
 1586077525480,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-46,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077525483,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-36,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
-1586077525485,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-42,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077525485,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-44,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077525485,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-42,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077525487,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-38,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077525488,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-34,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077525487,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-40,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2002
 1586077526476,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-53,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077526477,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-51,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
+1586077526481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-47,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077526481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-43,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077526481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-39,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
-1586077526481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-47,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077526483,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-45,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077526486,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-41,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077526490,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-37,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
@@ -2452,8 +1452,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077528474,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-55,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077528479,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-53,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077528480,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-51,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
-1586077528482,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-47,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077528482,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-43,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
+1586077528482,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-47,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077528482,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-39,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077528485,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-45,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077528487,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-41,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
@@ -2471,11 +1471,11 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077529489,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-40,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2001
 1586077530474,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-57,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077530475,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-55,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
-1586077530480,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-53,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077530481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-51,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077530480,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-53,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077530483,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-43,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
-1586077530483,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-39,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077530483,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-47,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077530483,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-39,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077530487,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-45,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077530488,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-41,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077530510,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-49,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
@@ -2484,10 +1484,10 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077531475,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-54,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077531476,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-52,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077531478,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-50,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
-1586077531482,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-46,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077531481,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-48,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
-1586077531486,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-42,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077531482,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-46,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077531486,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-44,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077531486,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-42,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077531490,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-40,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077532476,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-59,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077532477,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-57,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
@@ -2519,8 +1519,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077534485,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-43,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077534491,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-45,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2001
 1586077534514,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-49,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2004
-1586077535469,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-60,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2003
 1586077535472,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-58,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
+1586077535469,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-60,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2003
 1586077535476,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-62,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077535478,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-56,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077535478,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-54,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
@@ -2542,21 +1542,21 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077537472,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-60,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077537472,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-58,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077537475,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-64,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
-1586077537479,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-54,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077537478,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-56,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
+1586077537479,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-54,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077537483,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-52,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077537484,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-48,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
-1586077537478,2009,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-62,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2009
 1586077537481,2006,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-50,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2006
 1586077537487,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-46,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077537478,2009,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-62,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2009
 1586077538473,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-61,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077538474,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-65,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077538481,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-63,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
-1586077538481,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-59,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077538481,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-57,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
+1586077538481,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-59,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077538482,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-55,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
-1586077538488,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-47,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077538488,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-51,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077538488,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-47,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077538488,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-53,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2003
 1586077538521,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-49,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077539467,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-66,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2002
@@ -2567,14 +1567,14 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077539480,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-54,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077539484,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-52,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077539485,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-48,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
-1586077539488,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-50,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2003
 1586077539488,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-62,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2003
+1586077539488,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-50,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2003
 1586077540476,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-65,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077540474,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-61,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
 1586077540475,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-67,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
-1586077540483,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-63,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
-1586077540483,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-57,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077540483,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-55,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077540483,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-57,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077540483,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-63,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077540483,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-59,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2004
 1586077540489,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-51,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077540492,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-53,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
@@ -2584,8 +1584,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077541477,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-60,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077541478,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-64,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077541476,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-58,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
-1586077541481,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-56,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077541481,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-54,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
+1586077541481,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-56,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077541484,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-52,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077541491,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-50,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077541491,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-62,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
@@ -2593,17 +1593,17 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077542477,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-65,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077542478,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-67,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077542478,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-61,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
-1586077542484,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-57,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077542484,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-55,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077542484,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-57,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077542484,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-63,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077542488,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-59,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077542492,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-51,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077542493,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-53,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077543472,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-66,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077543473,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-70,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
-1586077543478,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-60,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
-1586077543477,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-68,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077543478,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-64,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
+1586077543477,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-68,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
+1586077543478,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-60,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077543479,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-58,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077543482,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-54,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077543482,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-56,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
@@ -2614,9 +1614,9 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077544478,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-65,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077544479,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-67,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077544480,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-61,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
+1586077544485,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-57,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077544485,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-55,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077544485,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-63,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
-1586077544485,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-57,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077544489,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-59,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077544494,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-53,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077545474,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-72,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
@@ -2705,8 +1705,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077553478,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-74,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077553479,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-72,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077553481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-68,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
-1586077553481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-64,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077553481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-66,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077553481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-64,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077553479,2006,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-70,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2006
 1586077553498,2005,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-62,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2005
 1586077554471,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-75,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
@@ -2723,11 +1723,11 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077555469,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-80,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2002
 1586077555471,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-78,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077555477,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-76,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
-1586077555479,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-72,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077555479,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-74,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077555479,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-72,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077555481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-64,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
-1586077555481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-66,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077555481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-68,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077555481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-66,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077555485,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-70,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077556474,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-75,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077556474,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-83,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
@@ -2759,8 +1759,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077558480,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-71,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077558482,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-67,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077558488,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-69,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
-1586077559473,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-86,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077559472,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-82,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
+1586077559473,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-86,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077559475,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-80,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077559476,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-78,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077559477,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-84,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
@@ -2771,16 +1771,16 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077559487,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-70,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2001
 1586077560471,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-85,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2004
 1586077560472,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-87,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2004
-1586077560476,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-75,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077560476,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-83,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
-1586077560478,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-79,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
+1586077560476,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-75,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077560478,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-81,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
+1586077560478,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-79,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077560479,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-77,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077560480,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-73,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077560480,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-71,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077560488,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-69,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
-1586077561475,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-86,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077561472,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-88,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
+1586077561475,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-86,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077561475,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-82,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077561476,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-80,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077561478,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-84,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
@@ -2834,21 +1834,21 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077566477,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-87,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077566478,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-85,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077566478,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-75,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
-1586077566478,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-83,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2001
 1586077566479,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-81,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
+1586077566478,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-83,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2001
 1586077566480,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-89,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077566480,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-77,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077566480,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-79,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2001
 1586077567470,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-94,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2004
 1586077567473,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-92,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
-1586077567477,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-88,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077567479,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-82,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077567477,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-88,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077567480,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-86,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077567475,2005,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-90,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2005
 1586077567481,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-76,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077567481,2010,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-78,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2010
-1586077567480,2012,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-84,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2012
 1586077567479,2013,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-80,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2013
+1586077567480,2012,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-84,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2012
 1586077568471,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-95,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2004
 1586077568474,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-93,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077568475,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-91,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2004
@@ -2856,14 +1856,14 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077568478,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-85,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077568479,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-83,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077568477,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-87,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
-1586077568480,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-89,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077568480,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-77,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
+1586077568480,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-89,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077568481,2010,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-79,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2010
 1586077569469,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-96,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
 1586077569474,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-94,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077569475,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-92,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
-1586077569479,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-82,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077569479,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-88,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077569479,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-82,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077569480,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-90,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077569480,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-86,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077569491,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-78,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
@@ -2875,9 +1875,9 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077570480,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-91,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077570481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-89,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077570481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-83,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
+1586077570481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-81,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077570481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-87,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077570481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-85,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
-1586077570481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-81,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2000
 1586077570492,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-79,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2001
 1586077571468,2005,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-98,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2005
 1586077571473,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-96,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
@@ -2890,9 +1890,9 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077571495,2003,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-84,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2002
 1586077571494,2004,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-80,text,false,,2789,0,21,21,http://127.0.0.1:8000/,0,0,2003
 1586077572472,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-99,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2001
+1586077572476,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-95,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2002
 1586077572478,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-93,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077572476,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-97,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2002
-1586077572476,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-95,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2002
 1586077572481,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-91,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077572482,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-85,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
 1586077572482,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-87,text,false,,2789,0,20,20,http://127.0.0.1:8000/,0,0,2000
@@ -2920,8 +1920,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077574482,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-87,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2001
 1586077575470,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-100,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2002
 1586077575473,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-98,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2001
-1586077575476,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-96,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2002
 1586077575478,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-94,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2000
+1586077575476,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-96,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2002
 1586077575479,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-92,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2001
 1586077575482,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-88,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2001
 1586077575482,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-86,text,false,,2789,0,17,17,http://127.0.0.1:8000/,0,0,2001
@@ -2959,8 +1959,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077579485,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-88,text,false,,2789,0,13,13,http://127.0.0.1:8000/,0,0,2000
 1586077580478,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-99,text,false,,2789,0,12,12,http://127.0.0.1:8000/,0,0,2001
 1586077580483,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-95,text,false,,2789,0,12,12,http://127.0.0.1:8000/,0,0,2000
-1586077580482,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-97,text,false,,2789,0,12,12,http://127.0.0.1:8000/,0,0,2001
 1586077580482,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-93,text,false,,2789,0,12,12,http://127.0.0.1:8000/,0,0,2001
+1586077580482,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-97,text,false,,2789,0,12,12,http://127.0.0.1:8000/,0,0,2001
 1586077580483,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-91,text,false,,2789,0,12,12,http://127.0.0.1:8000/,0,0,2001
 1586077580484,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-89,text,false,,2789,0,12,12,http://127.0.0.1:8000/,0,0,2001
 1586077581476,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-98,text,false,,2789,0,11,11,http://127.0.0.1:8000/,0,0,2002
@@ -2974,8 +1974,8 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1586077582483,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-95,text,false,,2789,0,10,10,http://127.0.0.1:8000/,0,0,2001
 1586077582484,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-91,text,false,,2789,0,10,10,http://127.0.0.1:8000/,0,0,2000
 1586077582483,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-97,text,false,,2789,0,10,10,http://127.0.0.1:8000/,0,0,2001
-1586077583480,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-100,text,false,,2789,0,9,9,http://127.0.0.1:8000/,0,0,2000
 1586077583478,2002,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-98,text,false,,2789,0,9,9,http://127.0.0.1:8000/,0,0,2002
+1586077583480,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-100,text,false,,2789,0,9,9,http://127.0.0.1:8000/,0,0,2000
 1586077583482,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-96,text,false,,2789,0,9,9,http://127.0.0.1:8000/,0,0,2001
 1586077583483,2000,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-94,text,false,,2789,0,9,9,http://127.0.0.1:8000/,0,0,2000
 1586077583483,2001,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to 127.0.0.1:8000 [/127.0.0.1] failed: Connection refused: connect,Grupa wątków 1-92,text,false,,2789,0,9,9,http://127.0.0.1:8000/,0,0,2001
